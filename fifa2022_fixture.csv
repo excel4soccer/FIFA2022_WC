@@ -49,8 +49,8 @@ match,date,name,venue,city,country,hometeam,awayteam,homegoal,awaygoal,status,up
 47,2022-12-02 14:00,Serbia vs Switzerland,Stadium 974,Doha,Qatar,Serbia,Switzerland,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
 49,2022-12-03 10:00,1A vs 2B,Khalifa International Stadium,Al Rayyan,Qatar,1A,2B,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
 50,2022-12-03 14:00,1C vs 2D,Ahmad bin Ali Stadium,Al Rayyan,Qatar,1C,2D,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
-51,2022-12-04 10:00,1D vs 2C,Al Thumama Stadium,Doha,Qatar,1D,2C,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
-52,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
+52,2022-12-04 10:00,1D vs 2C,Al Thumama Stadium,Doha,Qatar,1D,2C,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
+51,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
 53,2022-12-05 10:00,1E vs 2F,Al Janoub Stadium,Al Wkrah,Qatar,1E,2F,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
 54,2022-12-05 14:00,1G vs 2H,Stadium 974,Doha,Qatar,1G,2H,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
 55,2022-12-06 10:00,1F vs 2E,Education City Stadium,Al Rayyan,Qatar,1F,2E,none,none,STATUS_SCHEDULED,2022-09-09T01:25:19Z
