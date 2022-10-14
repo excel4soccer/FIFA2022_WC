@@ -1,65 +1,97 @@
 match,date,name,venue,city,country,hometeam,awayteam,homegoal,awaygoal,status,update time 
-1,2022-11-20 11:00,Qatar vs Ecuador,Al Bayt Stadium,Al Khor,Qatar,Qatar,Ecuador,none,none,SCHEDULED,2022-10-14 07:36:50
-3,2022-11-21 08:00,England vs IR Iran,Khalifa International Stadium,Al Rayyan,Qatar,England,IR Iran,none,none,SCHEDULED,2022-10-14 07:36:50
-2,2022-11-21 11:00,Senegal vs Netherlands,Al Thumama Stadium,Doha,Qatar,Senegal,Netherlands,none,none,SCHEDULED,2022-10-14 07:36:50
-4,2022-11-21 14:00,United States vs Wales,Ahmad bin Ali Stadium,Al Rayyan,Qatar,United States,Wales,none,none,SCHEDULED,2022-10-14 07:36:50
-8,2022-11-22 05:00,Argentina vs Saudi Arabia,Lusail Iconic Stadium,Lusail,Qatar,Argentina,Saudi Arabia,none,none,SCHEDULED,2022-10-14 07:36:50
-6,2022-11-22 08:00,Denmark vs Tunisia,Education City Stadium,Al Rayyan,Qatar,Denmark,Tunisia,none,none,SCHEDULED,2022-10-14 07:36:50
-7,2022-11-22 11:00,Mexico vs Poland,Stadium 974,Doha,Qatar,Mexico,Poland,none,none,SCHEDULED,2022-10-14 07:36:50
-5,2022-11-22 14:00,France vs Australia,Al Janoub Stadium,Al Wkrah,Qatar,France,Australia,none,none,SCHEDULED,2022-10-14 07:36:50
-12,2022-11-23 05:00,Morocco vs Croatia,Al Bayt Stadium,Al Khor,Qatar,Morocco,Croatia,none,none,SCHEDULED,2022-10-14 07:36:50
-11,2022-11-23 08:00,Germany vs Japan,Khalifa International Stadium,Al Rayyan,Qatar,Germany,Japan,none,none,SCHEDULED,2022-10-14 07:36:50
-10,2022-11-23 11:00,Spain vs Costa Rica,Al Thumama Stadium,Doha,Qatar,Spain,Costa Rica,none,none,SCHEDULED,2022-10-14 07:36:50
-9,2022-11-23 14:00,Belgium vs Canada,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Belgium,Canada,none,none,SCHEDULED,2022-10-14 07:36:50
-13,2022-11-24 05:00,Switzerland vs Cameroon,Al Janoub Stadium,Al Wkrah,Qatar,Switzerland,Cameroon,none,none,SCHEDULED,2022-10-14 07:36:50
-14,2022-11-24 08:00,Uruguay vs South Korea,Education City Stadium,Al Rayyan,Qatar,Uruguay,South Korea,none,none,SCHEDULED,2022-10-14 07:36:50
-15,2022-11-24 11:00,Portugal vs Ghana,Stadium 974,Doha,Qatar,Portugal,Ghana,none,none,SCHEDULED,2022-10-14 07:36:50
-16,2022-11-24 14:00,Brazil vs Serbia,Lusail Iconic Stadium,Lusail,Qatar,Brazil,Serbia,none,none,SCHEDULED,2022-10-14 07:36:50
-17,2022-11-25 05:00,Wales vs IR Iran,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,IR Iran,none,none,SCHEDULED,2022-10-14 07:36:50
-18,2022-11-25 08:00,Qatar vs Senegal,Al Thumama Stadium,Doha,Qatar,Qatar,Senegal,none,none,SCHEDULED,2022-10-14 07:36:50
-19,2022-11-25 11:00,Netherlands vs Ecuador,Khalifa International Stadium,Al Rayyan,Qatar,Netherlands,Ecuador,none,none,SCHEDULED,2022-10-14 07:36:50
-20,2022-11-25 14:00,England vs United States,Al Bayt Stadium,Al Khor,Qatar,England,United States,none,none,SCHEDULED,2022-10-14 07:36:50
-21,2022-11-26 05:00,Tunisia vs Australia,Al Janoub Stadium,Al Wkrah,Qatar,Tunisia,Australia,none,none,SCHEDULED,2022-10-14 07:36:50
-22,2022-11-26 08:00,Poland vs Saudi Arabia,Education City Stadium,Al Rayyan,Qatar,Poland,Saudi Arabia,none,none,SCHEDULED,2022-10-14 07:36:50
-23,2022-11-26 11:00,France vs Denmark,Stadium 974,Doha,Qatar,France,Denmark,none,none,SCHEDULED,2022-10-14 07:36:50
-24,2022-11-26 14:00,Argentina vs Mexico,Lusail Iconic Stadium,Lusail,Qatar,Argentina,Mexico,none,none,SCHEDULED,2022-10-14 07:36:50
-25,2022-11-27 05:00,Japan vs Costa Rica,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Japan,Costa Rica,none,none,SCHEDULED,2022-10-14 07:36:50
-26,2022-11-27 08:00,Belgium vs Morocco,Al Thumama Stadium,Doha,Qatar,Belgium,Morocco,none,none,SCHEDULED,2022-10-14 07:36:50
-27,2022-11-27 11:00,Croatia vs Canada,Khalifa International Stadium,Al Rayyan,Qatar,Croatia,Canada,none,none,SCHEDULED,2022-10-14 07:36:50
-28,2022-11-27 14:00,Spain vs Germany,Al Bayt Stadium,Al Khor,Qatar,Spain,Germany,none,none,SCHEDULED,2022-10-14 07:36:50
-29,2022-11-28 05:00,Cameroon vs Serbia,Al Janoub Stadium,Al Wkrah,Qatar,Cameroon,Serbia,none,none,SCHEDULED,2022-10-14 07:36:50
-30,2022-11-28 08:00,South Korea vs Ghana,Education City Stadium,Al Rayyan,Qatar,South Korea,Ghana,none,none,SCHEDULED,2022-10-14 07:36:50
-31,2022-11-28 11:00,Brazil vs Switzerland,Stadium 974,Doha,Qatar,Brazil,Switzerland,none,none,SCHEDULED,2022-10-14 07:36:50
-32,2022-11-28 14:00,Portugal vs Uruguay,Lusail Iconic Stadium,Lusail,Qatar,Portugal,Uruguay,none,none,SCHEDULED,2022-10-14 07:36:50
-35,2022-11-29 10:00,Ecuador vs Senegal,Khalifa International Stadium,Al Rayyan,Qatar,Ecuador,Senegal,none,none,SCHEDULED,2022-10-14 07:36:50
-36,2022-11-29 10:00,Netherlands vs Qatar,Al Bayt Stadium,Al Khor,Qatar,Netherlands,Qatar,none,none,SCHEDULED,2022-10-14 07:36:50
-34,2022-11-29 14:00,IR Iran vs United States,Al Thumama Stadium,Doha,Qatar,IR Iran,United States,none,none,SCHEDULED,2022-10-14 07:36:50
-33,2022-11-29 14:00,Wales vs England,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,England,none,none,SCHEDULED,2022-10-14 07:36:50
-37,2022-11-30 10:00,Australia vs Denmark,Al Janoub Stadium,Al Wkrah,Qatar,Australia,Denmark,none,none,SCHEDULED,2022-10-14 07:36:50
-38,2022-11-30 10:00,Tunisia vs France,Education City Stadium,Al Rayyan,Qatar,Tunisia,France,none,none,SCHEDULED,2022-10-14 07:36:50
-39,2022-11-30 14:00,Poland vs Argentina,Stadium 974,Doha,Qatar,Poland,Argentina,none,none,SCHEDULED,2022-10-14 07:36:50
-40,2022-11-30 14:00,Saudi Arabia vs Mexico,Lusail Iconic Stadium,Lusail,Qatar,Saudi Arabia,Mexico,none,none,SCHEDULED,2022-10-14 07:36:50
-42,2022-12-01 10:00,Canada vs Morocco,Al Thumama Stadium,Doha,Qatar,Canada,Morocco,none,none,SCHEDULED,2022-10-14 07:36:50
-41,2022-12-01 10:00,Croatia vs Belgium,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Croatia,Belgium,none,none,SCHEDULED,2022-10-14 07:36:50
-44,2022-12-01 14:00,Costa Rica vs Germany,Al Bayt Stadium,Al Khor,Qatar,Costa Rica,Germany,none,none,SCHEDULED,2022-10-14 07:36:50
-43,2022-12-01 14:00,Japan vs Spain,Khalifa International Stadium,Al Rayyan,Qatar,Japan,Spain,none,none,SCHEDULED,2022-10-14 07:36:50
-45,2022-12-02 10:00,Ghana vs Uruguay,Al Janoub Stadium,Al Wkrah,Qatar,Ghana,Uruguay,none,none,SCHEDULED,2022-10-14 07:36:50
-46,2022-12-02 10:00,South Korea vs Portugal,Education City Stadium,Al Rayyan,Qatar,South Korea,Portugal,none,none,SCHEDULED,2022-10-14 07:36:50
-48,2022-12-02 14:00,Cameroon vs Brazil,Lusail Iconic Stadium,Lusail,Qatar,Cameroon,Brazil,none,none,SCHEDULED,2022-10-14 07:36:50
-47,2022-12-02 14:00,Serbia vs Switzerland,Stadium 974,Doha,Qatar,Serbia,Switzerland,none,none,SCHEDULED,2022-10-14 07:36:50
-49,2022-12-03 10:00,1A vs 2B,Khalifa International Stadium,Al Rayyan,Qatar,1A,2B,none,none,SCHEDULED,2022-10-14 07:36:50
-50,2022-12-03 14:00,1C vs 2D,Ahmad bin Ali Stadium,Al Rayyan,Qatar,1C,2D,none,none,SCHEDULED,2022-10-14 07:36:50
-52,2022-12-04 10:00,1D vs 2C,Al Thumama Stadium,Doha,Qatar,1D,2C,none,none,SCHEDULED,2022-10-14 07:36:50
-51,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,SCHEDULED,2022-10-14 07:36:50
-53,2022-12-05 10:00,1E vs 2F,Al Janoub Stadium,Al Wkrah,Qatar,1E,2F,none,none,SCHEDULED,2022-10-14 07:36:50
-54,2022-12-05 14:00,1G vs 2H,Stadium 974,Doha,Qatar,1G,2H,none,none,SCHEDULED,2022-10-14 07:36:50
-55,2022-12-06 10:00,1F vs 2E,Education City Stadium,Al Rayyan,Qatar,1F,2E,none,none,SCHEDULED,2022-10-14 07:36:50
-56,2022-12-06 14:00,1H vs 2G,Lusail Iconic Stadium,Lusail,Qatar,1H,2G,none,none,SCHEDULED,2022-10-14 07:36:50
-57,2022-12-09 10:00,Round of 16 5 winner vs Round of 16 6 winner,Education City Stadium,Al Rayyan,Qatar,Round of 16 5 winner,Round of 16 6 winner,none,none,SCHEDULED,2022-10-14 07:36:50
-58,2022-12-09 14:00,Round of 16 1 winner vs Round of 16 2 winner,Lusail Iconic Stadium,Lusail,Qatar,Round of 16 1 winner,Round of 16 2 winner,none,none,SCHEDULED,2022-10-14 07:36:50
-59,2022-12-10 10:00,Round of 16 7 winner vs Round of 16 8 winner,Al Thumama Stadium,Doha,Qatar,Round of 16 7 winner,Round of 16 8 winner,none,none,SCHEDULED,2022-10-14 07:36:50
-60,2022-12-10 14:00,Round of 16 3 winner vs Round of 16 4 winner,Al Bayt Stadium,Al Khor,Qatar,Round of 16 3 winner,Round of 16 4 winner,none,none,SCHEDULED,2022-10-14 07:36:50
-61,2022-12-13 14:00,quarterfinal 1 Winner vs quarterfinal 2 Winner,Lusail Iconic Stadium,Lusail,Qatar,quarterfinal 1 Winner,quarterfinal 2 Winner,none,none,SCHEDULED,2022-10-14 07:36:50
-62,2022-12-14 14:00,quarterfinal 3 Winner vs quarterfinal 4 Winner,Al Bayt Stadium,Al Khor,Qatar,quarterfinal 3 Winner,quarterfinal 4 Winner,none,none,SCHEDULED,2022-10-14 07:36:50
-63,2022-12-17 10:00,semifinal 1 loser vs semifinal 2 loser,Khalifa International Stadium,Al Rayyan,Qatar,semifinal 1 loser,semifinal 2 loser,none,none,SCHEDULED,2022-10-14 07:36:50
-64,2022-12-18 10:00,semifinal 1 winner vs semifinal 2 winner,Lusail Iconic Stadium,Lusail,Qatar,semifinal 1 winner,semifinal 2 winner,none,none,SCHEDULED,2022-10-14 07:36:50
+1,2022-09-06T16:45Z,Dortmund vs Copenhagen,SIGNAL IDUNA PARK,Dortmund,Germany,Dortmund,Copenhagen,3,0,FULL_TIME,2022-10-14 07:36:51
+2,2022-09-06T16:45Z,Dinamo Zagreb vs Chelsea,Maksimir,Zagreb,Croatia,Dinamo Zagreb,Chelsea,1,0,FULL_TIME,2022-10-14 07:36:51
+3,2022-09-06T19:00Z,Benfica vs M. Haifa,Estádio da Luz,Lisbon,Portugal,Benfica,M. Haifa,2,0,FULL_TIME,2022-10-14 07:36:51
+4,2022-09-06T19:00Z,Celtic vs Real Madrid,Celtic Park,Glasgow,Scotland,Celtic,Real Madrid,0,3,FULL_TIME,2022-10-14 07:36:51
+5,2022-09-06T19:00Z,Salzburg vs Milan,Red Bull Arena Salzburg,Wals bei Salzburg,Austria,Salzburg,Milan,1,1,FULL_TIME,2022-10-14 07:36:51
+6,2022-09-06T19:00Z,Paris vs Juventus,Parc des Princes,Paris,France,Paris,Juventus,2,1,FULL_TIME,2022-10-14 07:36:51
+7,2022-09-06T19:00Z,Leipzig vs Shakhtar Donetsk,Red Bull Arena,Leipzig,,Leipzig,Shakhtar Donetsk,1,4,FULL_TIME,2022-10-14 07:36:51
+8,2022-09-06T19:00Z,Sevilla vs Man City,Ramón Sánchez-Pizjuán,Sevilla,Spain,Sevilla,Man City,0,4,FULL_TIME,2022-10-14 07:36:51
+9,2022-09-07T16:45Z,Ajax vs Rangers,Johan Cruijff Arena,Amsterdam,Netherlands,Ajax,Rangers,4,0,FULL_TIME,2022-10-14 07:36:51
+10,2022-09-07T16:45Z,Frankfurt vs Sporting CP,Deutsche Bank Park,Frankfurt,Germany,Frankfurt,Sporting CP,0,3,FULL_TIME,2022-10-14 07:36:51
+11,2022-09-07T19:00Z,Atlético vs Porto,Cívitas Metropolitano,Madrid,Spain,Atlético,Porto,2,1,FULL_TIME,2022-10-14 07:36:51
+12,2022-09-07T19:00Z,Barcelona vs Plzeň,Spotify Camp Nou,Barcelona,Spain,Barcelona,Plzeň,5,1,FULL_TIME,2022-10-14 07:36:51
+13,2022-09-07T19:00Z,Club Brugge vs Leverkusen,Jan Breydelstadion,Brugge,Belgium,Club Brugge,Leverkusen,1,0,FULL_TIME,2022-10-14 07:36:51
+14,2022-09-07T19:00Z,Inter vs Bayern,Giuseppe Meazza,Milano,Italy,Inter,Bayern,0,2,FULL_TIME,2022-10-14 07:36:51
+15,2022-09-07T19:00Z,Napoli vs Liverpool,Diego Armando Maradona,Napoli,Italy,Napoli,Liverpool,4,1,FULL_TIME,2022-10-14 07:36:51
+16,2022-09-07T19:00Z,Tottenham vs Marseille,Tottenham Hotspur Stadium,London,England,Tottenham,Marseille,2,0,FULL_TIME,2022-10-14 07:36:51
+17,2022-09-13T16:45Z,Sporting CP vs Tottenham,Estádio José Alvalade,Lisbon,Portugal,Sporting CP,Tottenham,2,0,FULL_TIME,2022-10-14 07:36:51
+18,2022-09-13T16:45Z,Plzeň vs Inter,Doosan Arena,Plzen,Czech Republic,Plzeň,Inter,0,2,FULL_TIME,2022-10-14 07:36:51
+19,2022-09-13T19:00Z,Leverkusen vs Atlético,BayArena,Leverkusen,Germany,Leverkusen,Atlético,2,0,FULL_TIME,2022-10-14 07:36:51
+20,2022-09-13T19:00Z,Bayern vs Barcelona,Allianz Arena,München,Germany,Bayern,Barcelona,2,0,FULL_TIME,2022-10-14 07:36:51
+21,2022-09-13T19:00Z,Porto vs Club Brugge,Estádio do Dragão,Porto,Portugal,Porto,Club Brugge,0,4,FULL_TIME,2022-10-14 07:36:51
+22,2022-09-13T19:00Z,Liverpool vs Ajax,Anfield,Liverpool,England,Liverpool,Ajax,2,1,FULL_TIME,2022-10-14 07:36:51
+23,2022-09-13T19:00Z,Marseille vs Frankfurt,Stade Vélodrome,Marseille,France,Marseille,Frankfurt,0,1,FULL_TIME,2022-10-14 07:36:51
+24,2022-09-14T16:45Z,Milan vs Dinamo Zagreb,Giuseppe Meazza,Milano,Italy,Milan,Dinamo Zagreb,3,1,FULL_TIME,2022-10-14 07:36:51
+25,2022-09-14T16:45Z,Shakhtar Donetsk vs Celtic,Stadion Legii Warszawa im. Jozefa Pilsudskiego,Warsaw,Poland,Shakhtar Donetsk,Celtic,1,1,FULL_TIME,2022-10-14 07:36:51
+26,2022-09-14T19:00Z,Chelsea vs Salzburg,Stamford Bridge,London,England,Chelsea,Salzburg,1,1,FULL_TIME,2022-10-14 07:36:51
+27,2022-09-14T19:00Z,Copenhagen vs Sevilla,Telia Parken,Copenhagen,Denmark,Copenhagen,Sevilla,0,0,FULL_TIME,2022-10-14 07:36:51
+28,2022-09-14T19:00Z,Juventus vs Benfica,Allianz Stadium,Torino,Italy,Juventus,Benfica,1,2,FULL_TIME,2022-10-14 07:36:51
+29,2022-09-14T19:00Z,M. Haifa vs Paris,Sammy Ofer Stadium,Haifa,Israel,M. Haifa,Paris,1,3,FULL_TIME,2022-10-14 07:36:51
+30,2022-09-14T19:00Z,Man City vs Dortmund,Etihad Stadium,Manchester,England,Man City,Dortmund,2,1,FULL_TIME,2022-10-14 07:36:51
+31,2022-09-14T19:00Z,Rangers vs Napoli,Ibrox Stadium,Glasgow,Scotland,Rangers,Napoli,0,3,FULL_TIME,2022-10-14 07:36:51
+32,2022-09-14T19:00Z,Real Madrid vs Leipzig,Santiago Bernabéu,Madrid,Spain,Real Madrid,Leipzig,2,0,FULL_TIME,2022-10-14 07:36:51
+33,2022-10-04T16:45Z,Bayern vs Plzeň,Allianz Arena,München,Germany,Bayern,Plzeň,5,0,FULL_TIME,2022-10-14 07:36:51
+34,2022-10-04T17:00Z,Marseille vs Sporting CP,Stade Vélodrome,Marseille,France,Marseille,Sporting CP,4,1,FULL_TIME,2022-10-14 07:36:51
+35,2022-10-04T19:00Z,Ajax vs Napoli,Johan Cruijff Arena,Amsterdam,Netherlands,Ajax,Napoli,1,6,FULL_TIME,2022-10-14 07:36:51
+36,2022-10-04T19:00Z,Club Brugge vs Atlético,Jan Breydelstadion,Brugge,Belgium,Club Brugge,Atlético,2,0,FULL_TIME,2022-10-14 07:36:51
+37,2022-10-04T19:00Z,Frankfurt vs Tottenham,Deutsche Bank Park,Frankfurt,Germany,Frankfurt,Tottenham,0,0,FULL_TIME,2022-10-14 07:36:51
+38,2022-10-04T19:00Z,Porto vs Leverkusen,Estádio do Dragão,Porto,Portugal,Porto,Leverkusen,2,0,FULL_TIME,2022-10-14 07:36:51
+39,2022-10-04T19:00Z,Inter vs Barcelona,Giuseppe Meazza,Milano,Italy,Inter,Barcelona,1,0,FULL_TIME,2022-10-14 07:36:51
+40,2022-10-04T19:00Z,Liverpool vs Rangers,Anfield,Liverpool,England,Liverpool,Rangers,2,0,FULL_TIME,2022-10-14 07:36:51
+41,2022-10-05T16:45Z,Salzburg vs Dinamo Zagreb,Red Bull Arena Salzburg,Wals bei Salzburg,Austria,Salzburg,Dinamo Zagreb,1,0,FULL_TIME,2022-10-14 07:36:51
+42,2022-10-05T16:45Z,Leipzig vs Celtic,Red Bull Arena,Leipzig,,Leipzig,Celtic,3,1,FULL_TIME,2022-10-14 07:36:51
+43,2022-10-05T19:00Z,Benfica vs Paris,Estádio da Luz,Lisbon,Portugal,Benfica,Paris,1,1,FULL_TIME,2022-10-14 07:36:51
+44,2022-10-05T19:00Z,Chelsea vs Milan,Stamford Bridge,London,England,Chelsea,Milan,3,0,FULL_TIME,2022-10-14 07:36:51
+45,2022-10-05T19:00Z,Juventus vs M. Haifa,Allianz Stadium,Torino,Italy,Juventus,M. Haifa,3,1,FULL_TIME,2022-10-14 07:36:51
+46,2022-10-05T19:00Z,Man City vs Copenhagen,Etihad Stadium,Manchester,England,Man City,Copenhagen,5,0,FULL_TIME,2022-10-14 07:36:51
+47,2022-10-05T19:00Z,Real Madrid vs Shakhtar Donetsk,Santiago Bernabéu,Madrid,Spain,Real Madrid,Shakhtar Donetsk,2,1,FULL_TIME,2022-10-14 07:36:51
+48,2022-10-05T19:00Z,Sevilla vs Dortmund,Ramón Sánchez-Pizjuán,Sevilla,Spain,Sevilla,Dortmund,1,4,FULL_TIME,2022-10-14 07:36:51
+49,2022-10-11T16:45Z,Copenhagen vs Man City,Telia Parken,Copenhagen,Denmark,Copenhagen,Man City,0,0,FULL_TIME,2022-10-14 07:36:51
+50,2022-10-11T16:45Z,M. Haifa vs Juventus,Sammy Ofer Stadium,Haifa,Israel,M. Haifa,Juventus,2,0,FULL_TIME,2022-10-14 07:36:51
+51,2022-10-11T19:00Z,Milan vs Chelsea,Giuseppe Meazza,Milano,Italy,Milan,Chelsea,0,2,FULL_TIME,2022-10-14 07:36:51
+52,2022-10-11T19:00Z,Dortmund vs Sevilla,SIGNAL IDUNA PARK,Dortmund,Germany,Dortmund,Sevilla,1,1,FULL_TIME,2022-10-14 07:36:51
+53,2022-10-11T19:00Z,Celtic vs Leipzig,Celtic Park,Glasgow,Scotland,Celtic,Leipzig,0,2,FULL_TIME,2022-10-14 07:36:51
+54,2022-10-11T19:00Z,Dinamo Zagreb vs Salzburg,Maksimir,Zagreb,Croatia,Dinamo Zagreb,Salzburg,1,1,FULL_TIME,2022-10-14 07:36:51
+55,2022-10-11T19:00Z,Paris vs Benfica,Parc des Princes,Paris,France,Paris,Benfica,1,1,FULL_TIME,2022-10-14 07:36:51
+56,2022-10-11T19:00Z,Shakhtar Donetsk vs Real Madrid,Stadion Legii Warszawa im. Jozefa Pilsudskiego,Warsaw,Poland,Shakhtar Donetsk,Real Madrid,1,1,FULL_TIME,2022-10-14 07:36:51
+57,2022-10-12T16:45Z,Atlético vs Club Brugge,Cívitas Metropolitano,Madrid,Spain,Atlético,Club Brugge,0,0,FULL_TIME,2022-10-14 07:36:51
+58,2022-10-12T16:45Z,Napoli vs Ajax,Diego Armando Maradona,Napoli,Italy,Napoli,Ajax,4,2,FULL_TIME,2022-10-14 07:36:51
+59,2022-10-12T19:00Z,Barcelona vs Inter,Spotify Camp Nou,Barcelona,Spain,Barcelona,Inter,3,3,FULL_TIME,2022-10-14 07:36:51
+60,2022-10-12T19:00Z,Leverkusen vs Porto,BayArena,Leverkusen,Germany,Leverkusen,Porto,0,3,FULL_TIME,2022-10-14 07:36:51
+61,2022-10-12T19:00Z,Rangers vs Liverpool,Ibrox Stadium,Glasgow,Scotland,Rangers,Liverpool,1,7,FULL_TIME,2022-10-14 07:36:51
+62,2022-10-12T19:00Z,Sporting CP vs Marseille,Estádio José Alvalade,Lisbon,Portugal,Sporting CP,Marseille,0,2,FULL_TIME,2022-10-14 07:36:51
+63,2022-10-12T19:00Z,Tottenham vs Frankfurt,Tottenham Hotspur Stadium,London,England,Tottenham,Frankfurt,3,2,FULL_TIME,2022-10-14 07:36:51
+64,2022-10-12T19:00Z,Plzeň vs Bayern,Doosan Arena,Plzen,Czech Republic,Plzeň,Bayern,2,4,FULL_TIME,2022-10-14 07:36:51
+65,2022-10-25T16:45Z,Salzburg vs Chelsea,Red Bull Arena Salzburg,Wals bei Salzburg,Austria,Salzburg,Chelsea,none,none,SCHEDULED,2022-10-14 07:36:51
+66,2022-10-25T16:45Z,Sevilla vs Copenhagen,Ramón Sánchez-Pizjuán,Sevilla,Spain,Sevilla,Copenhagen,none,none,SCHEDULED,2022-10-14 07:36:51
+67,2022-10-25T19:00Z,Benfica vs Juventus,Estádio da Luz,Lisbon,Portugal,Benfica,Juventus,none,none,SCHEDULED,2022-10-14 07:36:51
+68,2022-10-25T19:00Z,Dortmund vs Man City,SIGNAL IDUNA PARK,Dortmund,Germany,Dortmund,Man City,none,none,SCHEDULED,2022-10-14 07:36:51
+69,2022-10-25T19:00Z,Celtic vs Shakhtar Donetsk,Celtic Park,Glasgow,Scotland,Celtic,Shakhtar Donetsk,none,none,SCHEDULED,2022-10-14 07:36:51
+70,2022-10-25T19:00Z,Dinamo Zagreb vs Milan,Maksimir,Zagreb,Croatia,Dinamo Zagreb,Milan,none,none,SCHEDULED,2022-10-14 07:36:51
+71,2022-10-25T19:00Z,Paris vs M. Haifa,Parc des Princes,Paris,France,Paris,M. Haifa,none,none,SCHEDULED,2022-10-14 07:36:51
+72,2022-10-25T19:00Z,Leipzig vs Real Madrid,Red Bull Arena,Leipzig,,Leipzig,Real Madrid,none,none,SCHEDULED,2022-10-14 07:36:51
+73,2022-10-26T16:45Z,Club Brugge vs Porto,Jan Breydelstadion,Brugge,Belgium,Club Brugge,Porto,none,none,SCHEDULED,2022-10-14 07:36:51
+74,2022-10-26T16:45Z,Inter vs Plzeň,Giuseppe Meazza,Milano,Italy,Inter,Plzeň,none,none,SCHEDULED,2022-10-14 07:36:51
+75,2022-10-26T19:00Z,Ajax vs Liverpool,Johan Cruijff Arena,Amsterdam,Netherlands,Ajax,Liverpool,none,none,SCHEDULED,2022-10-14 07:36:51
+76,2022-10-26T19:00Z,Atlético vs Leverkusen,Cívitas Metropolitano,Madrid,Spain,Atlético,Leverkusen,none,none,SCHEDULED,2022-10-14 07:36:51
+77,2022-10-26T19:00Z,Barcelona vs Bayern,Spotify Camp Nou,Barcelona,Spain,Barcelona,Bayern,none,none,SCHEDULED,2022-10-14 07:36:51
+78,2022-10-26T19:00Z,Frankfurt vs Marseille,Deutsche Bank Park,Frankfurt,Germany,Frankfurt,Marseille,none,none,SCHEDULED,2022-10-14 07:36:51
+79,2022-10-26T19:00Z,Napoli vs Rangers,Diego Armando Maradona,Napoli,Italy,Napoli,Rangers,none,none,SCHEDULED,2022-10-14 07:36:51
+80,2022-10-26T19:00Z,Tottenham vs Sporting CP,Tottenham Hotspur Stadium,London,England,Tottenham,Sporting CP,none,none,SCHEDULED,2022-10-14 07:36:51
+81,2022-11-01T17:45Z,Leverkusen vs Club Brugge,BayArena,Leverkusen,Germany,Leverkusen,Club Brugge,none,none,SCHEDULED,2022-10-14 07:36:51
+82,2022-11-01T17:45Z,Porto vs Atlético,Estádio do Dragão,Porto,Portugal,Porto,Atlético,none,none,SCHEDULED,2022-10-14 07:36:51
+83,2022-11-01T20:00Z,Bayern vs Inter,Allianz Arena,München,Germany,Bayern,Inter,none,none,SCHEDULED,2022-10-14 07:36:51
+84,2022-11-01T20:00Z,Liverpool vs Napoli,Anfield,Liverpool,England,Liverpool,Napoli,none,none,SCHEDULED,2022-10-14 07:36:51
+85,2022-11-01T20:00Z,Marseille vs Tottenham,Stade Vélodrome,Marseille,France,Marseille,Tottenham,none,none,SCHEDULED,2022-10-14 07:36:51
+86,2022-11-01T20:00Z,Rangers vs Ajax,Ibrox Stadium,Glasgow,Scotland,Rangers,Ajax,none,none,SCHEDULED,2022-10-14 07:36:51
+87,2022-11-01T20:00Z,Sporting CP vs Frankfurt,Estádio José Alvalade,Lisbon,Portugal,Sporting CP,Frankfurt,none,none,SCHEDULED,2022-10-14 07:36:51
+88,2022-11-01T20:00Z,Plzeň vs Barcelona,Doosan Arena,Plzen,Czech Republic,Plzeň,Barcelona,none,none,SCHEDULED,2022-10-14 07:36:51
+89,2022-11-02T17:45Z,Real Madrid vs Celtic,Santiago Bernabéu,Madrid,Spain,Real Madrid,Celtic,none,none,SCHEDULED,2022-10-14 07:36:51
+90,2022-11-02T17:45Z,Shakhtar Donetsk vs Leipzig,Stadion Legii Warszawa im. Jozefa Pilsudskiego,Warsaw,Poland,Shakhtar Donetsk,Leipzig,none,none,SCHEDULED,2022-10-14 07:36:51
+91,2022-11-02T20:00Z,Milan vs Salzburg,Giuseppe Meazza,Milano,Italy,Milan,Salzburg,none,none,SCHEDULED,2022-10-14 07:36:51
+92,2022-11-02T20:00Z,Chelsea vs Dinamo Zagreb,Stamford Bridge,London,England,Chelsea,Dinamo Zagreb,none,none,SCHEDULED,2022-10-14 07:36:51
+93,2022-11-02T20:00Z,Copenhagen vs Dortmund,Telia Parken,Copenhagen,Denmark,Copenhagen,Dortmund,none,none,SCHEDULED,2022-10-14 07:36:51
+94,2022-11-02T20:00Z,Juventus vs Paris,Allianz Stadium,Torino,Italy,Juventus,Paris,none,none,SCHEDULED,2022-10-14 07:36:51
+95,2022-11-02T20:00Z,M. Haifa vs Benfica,Sammy Ofer Stadium,Haifa,Israel,M. Haifa,Benfica,none,none,SCHEDULED,2022-10-14 07:36:51
+96,2022-11-02T20:00Z,Man City vs Sevilla,Etihad Stadium,Manchester,England,Man City,Sevilla,none,none,SCHEDULED,2022-10-14 07:36:51
