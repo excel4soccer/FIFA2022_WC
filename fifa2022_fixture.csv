@@ -1,97 +1,97 @@
 match,date,name,venue,city,country,hometeam,awayteam,homegoal,awaygoal,status,update time 
-1,2022-09-06T16:45Z,Dortmund vs Copenhagen,SIGNAL IDUNA PARK,Dortmund,Germany,Dortmund,Copenhagen,3,0,FULL_TIME,2022-10-14 07:36:51
-2,2022-09-06T16:45Z,Dinamo Zagreb vs Chelsea,Maksimir,Zagreb,Croatia,Dinamo Zagreb,Chelsea,1,0,FULL_TIME,2022-10-14 07:36:51
-3,2022-09-06T19:00Z,Benfica vs M. Haifa,Estádio da Luz,Lisbon,Portugal,Benfica,M. Haifa,2,0,FULL_TIME,2022-10-14 07:36:51
-4,2022-09-06T19:00Z,Celtic vs Real Madrid,Celtic Park,Glasgow,Scotland,Celtic,Real Madrid,0,3,FULL_TIME,2022-10-14 07:36:51
-5,2022-09-06T19:00Z,Salzburg vs Milan,Red Bull Arena Salzburg,Wals bei Salzburg,Austria,Salzburg,Milan,1,1,FULL_TIME,2022-10-14 07:36:51
-6,2022-09-06T19:00Z,Paris vs Juventus,Parc des Princes,Paris,France,Paris,Juventus,2,1,FULL_TIME,2022-10-14 07:36:51
-7,2022-09-06T19:00Z,Leipzig vs Shakhtar Donetsk,Red Bull Arena,Leipzig,,Leipzig,Shakhtar Donetsk,1,4,FULL_TIME,2022-10-14 07:36:51
-8,2022-09-06T19:00Z,Sevilla vs Man City,Ramón Sánchez-Pizjuán,Sevilla,Spain,Sevilla,Man City,0,4,FULL_TIME,2022-10-14 07:36:51
-9,2022-09-07T16:45Z,Ajax vs Rangers,Johan Cruijff Arena,Amsterdam,Netherlands,Ajax,Rangers,4,0,FULL_TIME,2022-10-14 07:36:51
-10,2022-09-07T16:45Z,Frankfurt vs Sporting CP,Deutsche Bank Park,Frankfurt,Germany,Frankfurt,Sporting CP,0,3,FULL_TIME,2022-10-14 07:36:51
-11,2022-09-07T19:00Z,Atlético vs Porto,Cívitas Metropolitano,Madrid,Spain,Atlético,Porto,2,1,FULL_TIME,2022-10-14 07:36:51
-12,2022-09-07T19:00Z,Barcelona vs Plzeň,Spotify Camp Nou,Barcelona,Spain,Barcelona,Plzeň,5,1,FULL_TIME,2022-10-14 07:36:51
-13,2022-09-07T19:00Z,Club Brugge vs Leverkusen,Jan Breydelstadion,Brugge,Belgium,Club Brugge,Leverkusen,1,0,FULL_TIME,2022-10-14 07:36:51
-14,2022-09-07T19:00Z,Inter vs Bayern,Giuseppe Meazza,Milano,Italy,Inter,Bayern,0,2,FULL_TIME,2022-10-14 07:36:51
-15,2022-09-07T19:00Z,Napoli vs Liverpool,Diego Armando Maradona,Napoli,Italy,Napoli,Liverpool,4,1,FULL_TIME,2022-10-14 07:36:51
-16,2022-09-07T19:00Z,Tottenham vs Marseille,Tottenham Hotspur Stadium,London,England,Tottenham,Marseille,2,0,FULL_TIME,2022-10-14 07:36:51
-17,2022-09-13T16:45Z,Sporting CP vs Tottenham,Estádio José Alvalade,Lisbon,Portugal,Sporting CP,Tottenham,2,0,FULL_TIME,2022-10-14 07:36:51
-18,2022-09-13T16:45Z,Plzeň vs Inter,Doosan Arena,Plzen,Czech Republic,Plzeň,Inter,0,2,FULL_TIME,2022-10-14 07:36:51
-19,2022-09-13T19:00Z,Leverkusen vs Atlético,BayArena,Leverkusen,Germany,Leverkusen,Atlético,2,0,FULL_TIME,2022-10-14 07:36:51
-20,2022-09-13T19:00Z,Bayern vs Barcelona,Allianz Arena,München,Germany,Bayern,Barcelona,2,0,FULL_TIME,2022-10-14 07:36:51
-21,2022-09-13T19:00Z,Porto vs Club Brugge,Estádio do Dragão,Porto,Portugal,Porto,Club Brugge,0,4,FULL_TIME,2022-10-14 07:36:51
-22,2022-09-13T19:00Z,Liverpool vs Ajax,Anfield,Liverpool,England,Liverpool,Ajax,2,1,FULL_TIME,2022-10-14 07:36:51
-23,2022-09-13T19:00Z,Marseille vs Frankfurt,Stade Vélodrome,Marseille,France,Marseille,Frankfurt,0,1,FULL_TIME,2022-10-14 07:36:51
-24,2022-09-14T16:45Z,Milan vs Dinamo Zagreb,Giuseppe Meazza,Milano,Italy,Milan,Dinamo Zagreb,3,1,FULL_TIME,2022-10-14 07:36:51
-25,2022-09-14T16:45Z,Shakhtar Donetsk vs Celtic,Stadion Legii Warszawa im. Jozefa Pilsudskiego,Warsaw,Poland,Shakhtar Donetsk,Celtic,1,1,FULL_TIME,2022-10-14 07:36:51
-26,2022-09-14T19:00Z,Chelsea vs Salzburg,Stamford Bridge,London,England,Chelsea,Salzburg,1,1,FULL_TIME,2022-10-14 07:36:51
-27,2022-09-14T19:00Z,Copenhagen vs Sevilla,Telia Parken,Copenhagen,Denmark,Copenhagen,Sevilla,0,0,FULL_TIME,2022-10-14 07:36:51
-28,2022-09-14T19:00Z,Juventus vs Benfica,Allianz Stadium,Torino,Italy,Juventus,Benfica,1,2,FULL_TIME,2022-10-14 07:36:51
-29,2022-09-14T19:00Z,M. Haifa vs Paris,Sammy Ofer Stadium,Haifa,Israel,M. Haifa,Paris,1,3,FULL_TIME,2022-10-14 07:36:51
-30,2022-09-14T19:00Z,Man City vs Dortmund,Etihad Stadium,Manchester,England,Man City,Dortmund,2,1,FULL_TIME,2022-10-14 07:36:51
-31,2022-09-14T19:00Z,Rangers vs Napoli,Ibrox Stadium,Glasgow,Scotland,Rangers,Napoli,0,3,FULL_TIME,2022-10-14 07:36:51
-32,2022-09-14T19:00Z,Real Madrid vs Leipzig,Santiago Bernabéu,Madrid,Spain,Real Madrid,Leipzig,2,0,FULL_TIME,2022-10-14 07:36:51
-33,2022-10-04T16:45Z,Bayern vs Plzeň,Allianz Arena,München,Germany,Bayern,Plzeň,5,0,FULL_TIME,2022-10-14 07:36:51
-34,2022-10-04T17:00Z,Marseille vs Sporting CP,Stade Vélodrome,Marseille,France,Marseille,Sporting CP,4,1,FULL_TIME,2022-10-14 07:36:51
-35,2022-10-04T19:00Z,Ajax vs Napoli,Johan Cruijff Arena,Amsterdam,Netherlands,Ajax,Napoli,1,6,FULL_TIME,2022-10-14 07:36:51
-36,2022-10-04T19:00Z,Club Brugge vs Atlético,Jan Breydelstadion,Brugge,Belgium,Club Brugge,Atlético,2,0,FULL_TIME,2022-10-14 07:36:51
-37,2022-10-04T19:00Z,Frankfurt vs Tottenham,Deutsche Bank Park,Frankfurt,Germany,Frankfurt,Tottenham,0,0,FULL_TIME,2022-10-14 07:36:51
-38,2022-10-04T19:00Z,Porto vs Leverkusen,Estádio do Dragão,Porto,Portugal,Porto,Leverkusen,2,0,FULL_TIME,2022-10-14 07:36:51
-39,2022-10-04T19:00Z,Inter vs Barcelona,Giuseppe Meazza,Milano,Italy,Inter,Barcelona,1,0,FULL_TIME,2022-10-14 07:36:51
-40,2022-10-04T19:00Z,Liverpool vs Rangers,Anfield,Liverpool,England,Liverpool,Rangers,2,0,FULL_TIME,2022-10-14 07:36:51
-41,2022-10-05T16:45Z,Salzburg vs Dinamo Zagreb,Red Bull Arena Salzburg,Wals bei Salzburg,Austria,Salzburg,Dinamo Zagreb,1,0,FULL_TIME,2022-10-14 07:36:51
-42,2022-10-05T16:45Z,Leipzig vs Celtic,Red Bull Arena,Leipzig,,Leipzig,Celtic,3,1,FULL_TIME,2022-10-14 07:36:51
-43,2022-10-05T19:00Z,Benfica vs Paris,Estádio da Luz,Lisbon,Portugal,Benfica,Paris,1,1,FULL_TIME,2022-10-14 07:36:51
-44,2022-10-05T19:00Z,Chelsea vs Milan,Stamford Bridge,London,England,Chelsea,Milan,3,0,FULL_TIME,2022-10-14 07:36:51
-45,2022-10-05T19:00Z,Juventus vs M. Haifa,Allianz Stadium,Torino,Italy,Juventus,M. Haifa,3,1,FULL_TIME,2022-10-14 07:36:51
-46,2022-10-05T19:00Z,Man City vs Copenhagen,Etihad Stadium,Manchester,England,Man City,Copenhagen,5,0,FULL_TIME,2022-10-14 07:36:51
-47,2022-10-05T19:00Z,Real Madrid vs Shakhtar Donetsk,Santiago Bernabéu,Madrid,Spain,Real Madrid,Shakhtar Donetsk,2,1,FULL_TIME,2022-10-14 07:36:51
-48,2022-10-05T19:00Z,Sevilla vs Dortmund,Ramón Sánchez-Pizjuán,Sevilla,Spain,Sevilla,Dortmund,1,4,FULL_TIME,2022-10-14 07:36:51
-49,2022-10-11T16:45Z,Copenhagen vs Man City,Telia Parken,Copenhagen,Denmark,Copenhagen,Man City,0,0,FULL_TIME,2022-10-14 07:36:51
-50,2022-10-11T16:45Z,M. Haifa vs Juventus,Sammy Ofer Stadium,Haifa,Israel,M. Haifa,Juventus,2,0,FULL_TIME,2022-10-14 07:36:51
-51,2022-10-11T19:00Z,Milan vs Chelsea,Giuseppe Meazza,Milano,Italy,Milan,Chelsea,0,2,FULL_TIME,2022-10-14 07:36:51
-52,2022-10-11T19:00Z,Dortmund vs Sevilla,SIGNAL IDUNA PARK,Dortmund,Germany,Dortmund,Sevilla,1,1,FULL_TIME,2022-10-14 07:36:51
-53,2022-10-11T19:00Z,Celtic vs Leipzig,Celtic Park,Glasgow,Scotland,Celtic,Leipzig,0,2,FULL_TIME,2022-10-14 07:36:51
-54,2022-10-11T19:00Z,Dinamo Zagreb vs Salzburg,Maksimir,Zagreb,Croatia,Dinamo Zagreb,Salzburg,1,1,FULL_TIME,2022-10-14 07:36:51
-55,2022-10-11T19:00Z,Paris vs Benfica,Parc des Princes,Paris,France,Paris,Benfica,1,1,FULL_TIME,2022-10-14 07:36:51
-56,2022-10-11T19:00Z,Shakhtar Donetsk vs Real Madrid,Stadion Legii Warszawa im. Jozefa Pilsudskiego,Warsaw,Poland,Shakhtar Donetsk,Real Madrid,1,1,FULL_TIME,2022-10-14 07:36:51
-57,2022-10-12T16:45Z,Atlético vs Club Brugge,Cívitas Metropolitano,Madrid,Spain,Atlético,Club Brugge,0,0,FULL_TIME,2022-10-14 07:36:51
-58,2022-10-12T16:45Z,Napoli vs Ajax,Diego Armando Maradona,Napoli,Italy,Napoli,Ajax,4,2,FULL_TIME,2022-10-14 07:36:51
-59,2022-10-12T19:00Z,Barcelona vs Inter,Spotify Camp Nou,Barcelona,Spain,Barcelona,Inter,3,3,FULL_TIME,2022-10-14 07:36:51
-60,2022-10-12T19:00Z,Leverkusen vs Porto,BayArena,Leverkusen,Germany,Leverkusen,Porto,0,3,FULL_TIME,2022-10-14 07:36:51
-61,2022-10-12T19:00Z,Rangers vs Liverpool,Ibrox Stadium,Glasgow,Scotland,Rangers,Liverpool,1,7,FULL_TIME,2022-10-14 07:36:51
-62,2022-10-12T19:00Z,Sporting CP vs Marseille,Estádio José Alvalade,Lisbon,Portugal,Sporting CP,Marseille,0,2,FULL_TIME,2022-10-14 07:36:51
-63,2022-10-12T19:00Z,Tottenham vs Frankfurt,Tottenham Hotspur Stadium,London,England,Tottenham,Frankfurt,3,2,FULL_TIME,2022-10-14 07:36:51
-64,2022-10-12T19:00Z,Plzeň vs Bayern,Doosan Arena,Plzen,Czech Republic,Plzeň,Bayern,2,4,FULL_TIME,2022-10-14 07:36:51
-65,2022-10-25T16:45Z,Salzburg vs Chelsea,Red Bull Arena Salzburg,Wals bei Salzburg,Austria,Salzburg,Chelsea,none,none,SCHEDULED,2022-10-14 07:36:51
-66,2022-10-25T16:45Z,Sevilla vs Copenhagen,Ramón Sánchez-Pizjuán,Sevilla,Spain,Sevilla,Copenhagen,none,none,SCHEDULED,2022-10-14 07:36:51
-67,2022-10-25T19:00Z,Benfica vs Juventus,Estádio da Luz,Lisbon,Portugal,Benfica,Juventus,none,none,SCHEDULED,2022-10-14 07:36:51
-68,2022-10-25T19:00Z,Dortmund vs Man City,SIGNAL IDUNA PARK,Dortmund,Germany,Dortmund,Man City,none,none,SCHEDULED,2022-10-14 07:36:51
-69,2022-10-25T19:00Z,Celtic vs Shakhtar Donetsk,Celtic Park,Glasgow,Scotland,Celtic,Shakhtar Donetsk,none,none,SCHEDULED,2022-10-14 07:36:51
-70,2022-10-25T19:00Z,Dinamo Zagreb vs Milan,Maksimir,Zagreb,Croatia,Dinamo Zagreb,Milan,none,none,SCHEDULED,2022-10-14 07:36:51
-71,2022-10-25T19:00Z,Paris vs M. Haifa,Parc des Princes,Paris,France,Paris,M. Haifa,none,none,SCHEDULED,2022-10-14 07:36:51
-72,2022-10-25T19:00Z,Leipzig vs Real Madrid,Red Bull Arena,Leipzig,,Leipzig,Real Madrid,none,none,SCHEDULED,2022-10-14 07:36:51
-73,2022-10-26T16:45Z,Club Brugge vs Porto,Jan Breydelstadion,Brugge,Belgium,Club Brugge,Porto,none,none,SCHEDULED,2022-10-14 07:36:51
-74,2022-10-26T16:45Z,Inter vs Plzeň,Giuseppe Meazza,Milano,Italy,Inter,Plzeň,none,none,SCHEDULED,2022-10-14 07:36:51
-75,2022-10-26T19:00Z,Ajax vs Liverpool,Johan Cruijff Arena,Amsterdam,Netherlands,Ajax,Liverpool,none,none,SCHEDULED,2022-10-14 07:36:51
-76,2022-10-26T19:00Z,Atlético vs Leverkusen,Cívitas Metropolitano,Madrid,Spain,Atlético,Leverkusen,none,none,SCHEDULED,2022-10-14 07:36:51
-77,2022-10-26T19:00Z,Barcelona vs Bayern,Spotify Camp Nou,Barcelona,Spain,Barcelona,Bayern,none,none,SCHEDULED,2022-10-14 07:36:51
-78,2022-10-26T19:00Z,Frankfurt vs Marseille,Deutsche Bank Park,Frankfurt,Germany,Frankfurt,Marseille,none,none,SCHEDULED,2022-10-14 07:36:51
-79,2022-10-26T19:00Z,Napoli vs Rangers,Diego Armando Maradona,Napoli,Italy,Napoli,Rangers,none,none,SCHEDULED,2022-10-14 07:36:51
-80,2022-10-26T19:00Z,Tottenham vs Sporting CP,Tottenham Hotspur Stadium,London,England,Tottenham,Sporting CP,none,none,SCHEDULED,2022-10-14 07:36:51
-81,2022-11-01T17:45Z,Leverkusen vs Club Brugge,BayArena,Leverkusen,Germany,Leverkusen,Club Brugge,none,none,SCHEDULED,2022-10-14 07:36:51
-82,2022-11-01T17:45Z,Porto vs Atlético,Estádio do Dragão,Porto,Portugal,Porto,Atlético,none,none,SCHEDULED,2022-10-14 07:36:51
-83,2022-11-01T20:00Z,Bayern vs Inter,Allianz Arena,München,Germany,Bayern,Inter,none,none,SCHEDULED,2022-10-14 07:36:51
-84,2022-11-01T20:00Z,Liverpool vs Napoli,Anfield,Liverpool,England,Liverpool,Napoli,none,none,SCHEDULED,2022-10-14 07:36:51
-85,2022-11-01T20:00Z,Marseille vs Tottenham,Stade Vélodrome,Marseille,France,Marseille,Tottenham,none,none,SCHEDULED,2022-10-14 07:36:51
-86,2022-11-01T20:00Z,Rangers vs Ajax,Ibrox Stadium,Glasgow,Scotland,Rangers,Ajax,none,none,SCHEDULED,2022-10-14 07:36:51
-87,2022-11-01T20:00Z,Sporting CP vs Frankfurt,Estádio José Alvalade,Lisbon,Portugal,Sporting CP,Frankfurt,none,none,SCHEDULED,2022-10-14 07:36:51
-88,2022-11-01T20:00Z,Plzeň vs Barcelona,Doosan Arena,Plzen,Czech Republic,Plzeň,Barcelona,none,none,SCHEDULED,2022-10-14 07:36:51
-89,2022-11-02T17:45Z,Real Madrid vs Celtic,Santiago Bernabéu,Madrid,Spain,Real Madrid,Celtic,none,none,SCHEDULED,2022-10-14 07:36:51
-90,2022-11-02T17:45Z,Shakhtar Donetsk vs Leipzig,Stadion Legii Warszawa im. Jozefa Pilsudskiego,Warsaw,Poland,Shakhtar Donetsk,Leipzig,none,none,SCHEDULED,2022-10-14 07:36:51
-91,2022-11-02T20:00Z,Milan vs Salzburg,Giuseppe Meazza,Milano,Italy,Milan,Salzburg,none,none,SCHEDULED,2022-10-14 07:36:51
-92,2022-11-02T20:00Z,Chelsea vs Dinamo Zagreb,Stamford Bridge,London,England,Chelsea,Dinamo Zagreb,none,none,SCHEDULED,2022-10-14 07:36:51
-93,2022-11-02T20:00Z,Copenhagen vs Dortmund,Telia Parken,Copenhagen,Denmark,Copenhagen,Dortmund,none,none,SCHEDULED,2022-10-14 07:36:51
-94,2022-11-02T20:00Z,Juventus vs Paris,Allianz Stadium,Torino,Italy,Juventus,Paris,none,none,SCHEDULED,2022-10-14 07:36:51
-95,2022-11-02T20:00Z,M. Haifa vs Benfica,Sammy Ofer Stadium,Haifa,Israel,M. Haifa,Benfica,none,none,SCHEDULED,2022-10-14 07:36:51
-96,2022-11-02T20:00Z,Man City vs Sevilla,Etihad Stadium,Manchester,England,Man City,Sevilla,none,none,SCHEDULED,2022-10-14 07:36:51
+1,2022-09-08T16:45Z,Union Berlin vs St Gilloise,An der alten Försterei,Berlin,,Union Berlin,St Gilloise,0,1,FULL_TIME,2022-10-14 07:36:52
+2,2022-09-08T16:45Z,AEK Larnaca vs Rennes,AEK Arena,Larnaca,Cyprus,AEK Larnaca,Rennes,1,2,FULL_TIME,2022-10-14 07:36:52
+3,2022-09-08T16:45Z,Zürich vs Arsenal,Kybunpark,St. Gallen,Switzerland,Zürich,Arsenal,1,2,FULL_TIME,2022-10-14 07:36:52
+4,2022-09-08T16:45Z,Fenerbahçe vs Dynamo Kyiv,Ulker Stadyumu,Istanbul,Turkey,Fenerbahçe,Dynamo Kyiv,2,1,FULL_TIME,2022-10-14 07:36:52
+5,2022-09-08T16:45Z,HJK vs Betis,Bolt Arena,Helsinki,Finland,HJK,Betis,0,2,FULL_TIME,2022-10-14 07:36:52
+6,2022-09-08T16:45Z,Ludogorets vs Roma,Huvepharma Arena,Razgrad,Bulgaria,Ludogorets,Roma,2,1,FULL_TIME,2022-10-14 07:36:52
+7,2022-09-08T16:45Z,Malmö vs Braga,Eleda Stadion,Malmo,Sweden,Malmö,Braga,0,2,FULL_TIME,2022-10-14 07:36:52
+8,2022-09-08T16:45Z,PSV vs Bodø/Glimt,Philips Stadion,Eindhoven,Netherlands,PSV,Bodø/Glimt,1,1,FULL_TIME,2022-10-14 07:36:52
+9,2022-09-08T19:00Z,Ferencváros vs Trabzonspor,Groupama Arena,Budapest,Hungary,Ferencváros,Trabzonspor,3,2,FULL_TIME,2022-10-14 07:36:52
+10,2022-09-08T19:00Z,Lazio vs Feyenoord,Olimpico,Roma,Italy,Lazio,Feyenoord,4,2,FULL_TIME,2022-10-14 07:36:52
+11,2022-09-08T19:00Z,Man United vs Real Sociedad,Old Trafford,Manchester,England,Man United,Real Sociedad,0,1,FULL_TIME,2022-10-14 07:36:52
+12,2022-09-08T19:00Z,Nantes vs Olympiacos,La Beaujoire-Louis-Fonteneau,Nantes,France,Nantes,Olympiacos,2,1,FULL_TIME,2022-10-14 07:36:52
+13,2022-09-08T19:00Z,Omonoia vs Sheriff,GSP Stadium,Nicosia,Cyprus,Omonoia,Sheriff,0,3,FULL_TIME,2022-10-14 07:36:52
+14,2022-09-08T19:00Z,Crvena zvezda vs Monaco,Rajko Mitic Stadium,Belgrade,,Crvena zvezda,Monaco,0,1,FULL_TIME,2022-10-14 07:36:52
+15,2022-09-08T19:00Z,Freiburg vs Qarabağ,Europa-Park Stadion,Freiburg im Breisgau,,Freiburg,Qarabağ,2,1,FULL_TIME,2022-10-14 07:36:52
+16,2022-09-08T19:00Z,Sturm vs Midtjylland,Merkur Arena,Graz,Austria,Sturm,Midtjylland,1,0,FULL_TIME,2022-10-14 07:36:52
+17,2022-09-15T16:45Z,Monaco vs Ferencváros,Stade Louis II,Monaco,France,Monaco,Ferencváros,0,1,FULL_TIME,2022-10-14 07:36:52
+18,2022-09-15T16:45Z,Midtjylland vs Lazio,MCH Arena,Herning,Denmark,Midtjylland,Lazio,5,1,FULL_TIME,2022-10-14 07:36:52
+19,2022-09-15T16:45Z,Feyenoord vs Sturm,De Kuip,Rotterdam,Netherlands,Feyenoord,Sturm,6,0,FULL_TIME,2022-10-14 07:36:52
+20,2022-09-15T16:45Z,Qarabağ vs Nantes,Tofik Bakhramov Stadium,Baku,Azerbaijan,Qarabağ,Nantes,3,0,FULL_TIME,2022-10-14 07:36:52
+21,2022-09-15T16:45Z,Olympiacos vs Freiburg,Georgios Karaiskakis Stadium,Piraeus,Greece,Olympiacos,Freiburg,0,3,FULL_TIME,2022-10-14 07:36:52
+22,2022-09-15T16:45Z,Real Sociedad vs Omonoia,Reale Arena,San Sebastián,Spain,Real Sociedad,Omonoia,2,1,FULL_TIME,2022-10-14 07:36:52
+23,2022-09-15T16:45Z,Sheriff vs Man United,Stadionul Zimbru,Chisinau,Moldova,Sheriff,Man United,0,2,FULL_TIME,2022-10-14 07:36:52
+24,2022-09-15T16:45Z,Trabzonspor vs Crvena zvezda,Senol Günes Spor Kompleksi,Trabzon,Turkey,Trabzonspor,Crvena zvezda,2,1,FULL_TIME,2022-10-14 07:36:52
+25,2022-09-15T19:00Z,Roma vs HJK,Olimpico,Roma,Italy,Roma,HJK,3,0,FULL_TIME,2022-10-14 07:36:52
+26,2022-09-15T19:00Z,Bodø/Glimt vs Zürich,Aspmyra Stadion,Bodø/Glimt,Norway,Bodø/Glimt,Zürich,2,1,FULL_TIME,2022-10-14 07:36:52
+27,2022-09-15T19:00Z,Braga vs Union Berlin,Estádio Municipal de Braga,Braga,Portugal,Braga,Union Berlin,1,0,FULL_TIME,2022-10-14 07:36:52
+28,2022-09-15T19:00Z,Dynamo Kyiv vs AEK Larnaca,Stadion Cracovii im. Jozefa Pilsudskiego,Krakow,Poland,Dynamo Kyiv,AEK Larnaca,0,1,FULL_TIME,2022-10-14 07:36:52
+29,2022-09-15T19:00Z,Betis vs Ludogorets,Benito Villamarín,Sevilla,Spain,Betis,Ludogorets,3,2,FULL_TIME,2022-10-14 07:36:52
+30,2022-09-15T19:00Z,Rennes vs Fenerbahçe,Roazhon Park,Rennes,France,Rennes,Fenerbahçe,2,2,FULL_TIME,2022-10-14 07:36:52
+31,2022-09-15T19:00Z,St Gilloise vs Malmö,Den Dreef,Leuven,Belgium,St Gilloise,Malmö,3,2,FULL_TIME,2022-10-14 07:36:52
+32,2022-10-06T16:45Z,Monaco vs Trabzonspor,Stade Louis II,Monaco,France,Monaco,Trabzonspor,3,1,FULL_TIME,2022-10-14 07:36:52
+33,2022-10-06T16:45Z,Zürich vs PSV,Stadion Letzigrund,Zürich,Switzerland,Zürich,PSV,1,5,FULL_TIME,2022-10-14 07:36:52
+34,2022-10-06T16:45Z,HJK vs Ludogorets,Bolt Arena,Helsinki,Finland,HJK,Ludogorets,1,1,FULL_TIME,2022-10-14 07:36:52
+35,2022-10-06T16:45Z,Malmö vs Union Berlin,Eleda Stadion,Malmo,Sweden,Malmö,Union Berlin,0,1,FULL_TIME,2022-10-14 07:36:52
+36,2022-10-06T16:45Z,Omonoia vs Man United,GSP Stadium,Nicosia,Cyprus,Omonoia,Man United,2,3,FULL_TIME,2022-10-14 07:36:52
+37,2022-10-06T16:45Z,Crvena zvezda vs Ferencváros,Rajko Mitic Stadium,Belgrade,,Crvena zvezda,Ferencváros,4,1,FULL_TIME,2022-10-14 07:36:52
+38,2022-10-06T16:45Z,Sheriff vs Real Sociedad,Stadionul Zimbru,Chisinau,Moldova,Sheriff,Real Sociedad,0,2,FULL_TIME,2022-10-14 07:36:52
+39,2022-10-06T16:45Z,Sturm vs Lazio,Merkur Arena,Graz,Austria,Sturm,Lazio,0,0,FULL_TIME,2022-10-14 07:36:52
+40,2022-10-06T19:00Z,Arsenal vs Bodø/Glimt,Emirates Stadium,London,England,Arsenal,Bodø/Glimt,3,0,FULL_TIME,2022-10-14 07:36:52
+41,2022-10-06T19:00Z,Roma vs Betis,Olimpico,Roma,Italy,Roma,Betis,1,2,FULL_TIME,2022-10-14 07:36:52
+42,2022-10-06T19:00Z,Braga vs St Gilloise,Estádio Municipal de Braga,Braga,Portugal,Braga,St Gilloise,1,2,FULL_TIME,2022-10-14 07:36:52
+43,2022-10-06T19:00Z,Midtjylland vs Feyenoord,MCH Arena,Herning,Denmark,Midtjylland,Feyenoord,2,2,FULL_TIME,2022-10-14 07:36:52
+44,2022-10-06T19:00Z,Fenerbahçe vs AEK Larnaca,Ulker Stadyumu,Istanbul,Turkey,Fenerbahçe,AEK Larnaca,2,0,FULL_TIME,2022-10-14 07:36:52
+45,2022-10-06T19:00Z,Olympiacos vs Qarabağ,Georgios Karaiskakis Stadium,Piraeus,Greece,Olympiacos,Qarabağ,0,3,FULL_TIME,2022-10-14 07:36:52
+46,2022-10-06T19:00Z,Freiburg vs Nantes,Europa-Park Stadion,Freiburg im Breisgau,,Freiburg,Nantes,2,0,FULL_TIME,2022-10-14 07:36:52
+47,2022-10-06T19:00Z,Rennes vs Dynamo Kyiv,Roazhon Park,Rennes,France,Rennes,Dynamo Kyiv,2,1,FULL_TIME,2022-10-14 07:36:52
+48,2022-10-13T16:45Z,AEK Larnaca vs Fenerbahçe,AEK Arena,Larnaca,Cyprus,AEK Larnaca,Fenerbahçe,1,2,FULL_TIME,2022-10-14 07:36:52
+49,2022-10-13T16:45Z,Bodø/Glimt vs Arsenal,Aspmyra Stadion,Bodø/Glimt,Norway,Bodø/Glimt,Arsenal,0,1,FULL_TIME,2022-10-14 07:36:52
+50,2022-10-13T16:45Z,Dynamo Kyiv vs Rennes,Stadion Cracovii im. Jozefa Pilsudskiego,Krakow,Poland,Dynamo Kyiv,Rennes,0,1,FULL_TIME,2022-10-14 07:36:52
+51,2022-10-13T16:45Z,Feyenoord vs Midtjylland,De Kuip,Rotterdam,Netherlands,Feyenoord,Midtjylland,2,2,FULL_TIME,2022-10-14 07:36:52
+52,2022-10-13T16:45Z,Qarabağ vs Olympiacos,Tofik Bakhramov Stadium,Baku,Azerbaijan,Qarabağ,Olympiacos,0,0,FULL_TIME,2022-10-14 07:36:52
+53,2022-10-13T16:45Z,Nantes vs Freiburg,La Beaujoire-Louis-Fonteneau,Nantes,France,Nantes,Freiburg,0,4,FULL_TIME,2022-10-14 07:36:52
+54,2022-10-13T16:45Z,Betis vs Roma,Benito Villamarín,Sevilla,Spain,Betis,Roma,1,1,FULL_TIME,2022-10-14 07:36:52
+55,2022-10-13T16:45Z,St Gilloise vs Braga,Den Dreef,Leuven,Belgium,St Gilloise,Braga,3,3,FULL_TIME,2022-10-14 07:36:52
+56,2022-10-13T19:00Z,Union Berlin vs Malmö,An der alten Försterei,Berlin,,Union Berlin,Malmö,1,0,FULL_TIME,2022-10-14 07:36:52
+57,2022-10-13T19:00Z,Ferencváros vs Crvena zvezda,Groupama Arena,Budapest,Hungary,Ferencváros,Crvena zvezda,2,1,FULL_TIME,2022-10-14 07:36:52
+58,2022-10-13T19:00Z,Lazio vs Sturm,Olimpico,Roma,Italy,Lazio,Sturm,2,2,FULL_TIME,2022-10-14 07:36:52
+59,2022-10-13T19:00Z,Ludogorets vs HJK,Huvepharma Arena,Razgrad,Bulgaria,Ludogorets,HJK,2,0,FULL_TIME,2022-10-14 07:36:52
+60,2022-10-13T19:00Z,Man United vs Omonoia,Old Trafford,Manchester,England,Man United,Omonoia,1,0,FULL_TIME,2022-10-14 07:36:52
+61,2022-10-13T19:00Z,PSV vs Zürich,Philips Stadion,Eindhoven,Netherlands,PSV,Zürich,5,0,FULL_TIME,2022-10-14 07:36:52
+62,2022-10-13T19:00Z,Real Sociedad vs Sheriff,Reale Arena,San Sebastián,Spain,Real Sociedad,Sheriff,3,0,FULL_TIME,2022-10-14 07:36:52
+63,2022-10-13T19:00Z,Trabzonspor vs Monaco,Senol Günes Spor Kompleksi,Trabzon,Turkey,Trabzonspor,Monaco,4,0,FULL_TIME,2022-10-14 07:36:52
+64,2022-10-20T17:00Z,Arsenal vs PSV,Emirates Stadium,London,England,Arsenal,PSV,none,none,SCHEDULED,2022-10-14 07:36:52
+65,2022-10-27T16:45Z,Union Berlin vs Braga,An der alten Försterei,Berlin,,Union Berlin,Braga,none,none,SCHEDULED,2022-10-14 07:36:52
+66,2022-10-27T16:45Z,AEK Larnaca vs Dynamo Kyiv,AEK Arena,Larnaca,Cyprus,AEK Larnaca,Dynamo Kyiv,none,none,SCHEDULED,2022-10-14 07:36:52
+67,2022-10-27T16:45Z,Zürich vs Bodø/Glimt,Stadion Letzigrund,Zürich,Switzerland,Zürich,Bodø/Glimt,none,none,SCHEDULED,2022-10-14 07:36:52
+68,2022-10-27T16:45Z,Fenerbahçe vs Rennes,Ulker Stadyumu,Istanbul,Turkey,Fenerbahçe,Rennes,none,none,SCHEDULED,2022-10-14 07:36:52
+69,2022-10-27T16:45Z,Lazio vs Midtjylland,Olimpico,Roma,Italy,Lazio,Midtjylland,none,none,SCHEDULED,2022-10-14 07:36:52
+70,2022-10-27T16:45Z,Ludogorets vs Betis,Huvepharma Arena,Razgrad,Bulgaria,Ludogorets,Betis,none,none,SCHEDULED,2022-10-14 07:36:52
+71,2022-10-27T16:45Z,Malmö vs St Gilloise,Eleda Stadion,Malmo,Sweden,Malmö,St Gilloise,none,none,SCHEDULED,2022-10-14 07:36:52
+72,2022-10-27T16:45Z,PSV vs Arsenal,Philips Stadion,Eindhoven,Netherlands,PSV,Arsenal,none,none,SCHEDULED,2022-10-14 07:36:52
+73,2022-10-27T19:00Z,Ferencváros vs Monaco,Groupama Arena,Budapest,Hungary,Ferencváros,Monaco,none,none,SCHEDULED,2022-10-14 07:36:52
+74,2022-10-27T19:00Z,HJK vs Roma,Bolt Arena,Helsinki,Finland,HJK,Roma,none,none,SCHEDULED,2022-10-14 07:36:52
+75,2022-10-27T19:00Z,Man United vs Sheriff,Old Trafford,Manchester,England,Man United,Sheriff,none,none,SCHEDULED,2022-10-14 07:36:52
+76,2022-10-27T19:00Z,Nantes vs Qarabağ,La Beaujoire-Louis-Fonteneau,Nantes,France,Nantes,Qarabağ,none,none,SCHEDULED,2022-10-14 07:36:52
+77,2022-10-27T19:00Z,Omonoia vs Real Sociedad,Tsirion,Limassol,Cyprus,Omonoia,Real Sociedad,none,none,SCHEDULED,2022-10-14 07:36:52
+78,2022-10-27T19:00Z,Crvena zvezda vs Trabzonspor,Rajko Mitic Stadium,Belgrade,,Crvena zvezda,Trabzonspor,none,none,SCHEDULED,2022-10-14 07:36:52
+79,2022-10-27T19:00Z,Freiburg vs Olympiacos,Europa-Park Stadion,Freiburg im Breisgau,,Freiburg,Olympiacos,none,none,SCHEDULED,2022-10-14 07:36:52
+80,2022-10-27T19:00Z,Sturm vs Feyenoord,Merkur Arena,Graz,Austria,Sturm,Feyenoord,none,none,SCHEDULED,2022-10-14 07:36:52
+81,2022-11-03T17:45Z,Monaco vs Crvena zvezda,Stade Louis II,Monaco,France,Monaco,Crvena zvezda,none,none,SCHEDULED,2022-10-14 07:36:52
+82,2022-11-03T17:45Z,Midtjylland vs Sturm,MCH Arena,Herning,Denmark,Midtjylland,Sturm,none,none,SCHEDULED,2022-10-14 07:36:52
+83,2022-11-03T17:45Z,Feyenoord vs Lazio,De Kuip,Rotterdam,Netherlands,Feyenoord,Lazio,none,none,SCHEDULED,2022-10-14 07:36:52
+84,2022-11-03T17:45Z,Qarabağ vs Freiburg,Tofik Bakhramov Stadium,Baku,Azerbaijan,Qarabağ,Freiburg,none,none,SCHEDULED,2022-10-14 07:36:52
+85,2022-11-03T17:45Z,Olympiacos vs Nantes,Georgios Karaiskakis Stadium,Piraeus,Greece,Olympiacos,Nantes,none,none,SCHEDULED,2022-10-14 07:36:52
+86,2022-11-03T17:45Z,Real Sociedad vs Man United,Reale Arena,San Sebastián,Spain,Real Sociedad,Man United,none,none,SCHEDULED,2022-10-14 07:36:52
+87,2022-11-03T17:45Z,Sheriff vs Omonoia,Sheriff Stadium,Tiraspol,Moldova,Sheriff,Omonoia,none,none,SCHEDULED,2022-10-14 07:36:52
+88,2022-11-03T17:45Z,Trabzonspor vs Ferencváros,Senol Günes Spor Kompleksi,Trabzon,Turkey,Trabzonspor,Ferencváros,none,none,SCHEDULED,2022-10-14 07:36:52
+89,2022-11-03T20:00Z,Arsenal vs Zürich,Emirates Stadium,London,England,Arsenal,Zürich,none,none,SCHEDULED,2022-10-14 07:36:52
+90,2022-11-03T20:00Z,Roma vs Ludogorets,Olimpico,Roma,Italy,Roma,Ludogorets,none,none,SCHEDULED,2022-10-14 07:36:52
+91,2022-11-03T20:00Z,Bodø/Glimt vs PSV,Aspmyra Stadion,Bodø/Glimt,Norway,Bodø/Glimt,PSV,none,none,SCHEDULED,2022-10-14 07:36:52
+92,2022-11-03T20:00Z,Braga vs Malmö,Estádio Municipal de Braga,Braga,Portugal,Braga,Malmö,none,none,SCHEDULED,2022-10-14 07:36:52
+93,2022-11-03T20:00Z,Dynamo Kyiv vs Fenerbahçe,Stadion Cracovii im. Jozefa Pilsudskiego,Krakow,Poland,Dynamo Kyiv,Fenerbahçe,none,none,SCHEDULED,2022-10-14 07:36:52
+94,2022-11-03T20:00Z,Betis vs HJK,Benito Villamarín,Sevilla,Spain,Betis,HJK,none,none,SCHEDULED,2022-10-14 07:36:52
+95,2022-11-03T20:00Z,Rennes vs AEK Larnaca,Roazhon Park,Rennes,France,Rennes,AEK Larnaca,none,none,SCHEDULED,2022-10-14 07:36:52
+96,2022-11-03T20:00Z,St Gilloise vs Union Berlin,Den Dreef,Leuven,Belgium,St Gilloise,Union Berlin,none,none,SCHEDULED,2022-10-14 07:36:52
