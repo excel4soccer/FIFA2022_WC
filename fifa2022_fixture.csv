@@ -1,65 +1,65 @@
 match,date,name,venue,city,country,hometeam,awayteam,homegoal,awaygoal,status,update time 
-1,2022-11-20 11:00,Qatar vs Ecuador,Al Bayt Stadium,Al Khor,Qatar,Qatar,Ecuador,none,none,SCHEDULED,2022-11-12 07:40:32
-3,2022-11-21 08:00,England vs IR Iran,,Al Khor,Qatar,England,IR Iran,none,none,SCHEDULED,2022-11-12 07:40:32
-2,2022-11-21 11:00,Senegal vs Netherlands,,Al Khor,Qatar,Senegal,Netherlands,none,none,SCHEDULED,2022-11-12 07:40:32
-4,2022-11-21 14:00,United States vs Wales,,Al Khor,Qatar,United States,Wales,none,none,SCHEDULED,2022-11-12 07:40:32
-8,2022-11-22 05:00,Argentina vs Saudi Arabia,,Al Khor,Qatar,Argentina,Saudi Arabia,none,none,SCHEDULED,2022-11-12 07:40:32
-6,2022-11-22 08:00,Denmark vs Tunisia,,Al Khor,Qatar,Denmark,Tunisia,none,none,SCHEDULED,2022-11-12 07:40:32
-7,2022-11-22 11:00,Mexico vs Poland,,Al Khor,Qatar,Mexico,Poland,none,none,SCHEDULED,2022-11-12 07:40:32
-5,2022-11-22 14:00,France vs Australia,,Al Khor,Qatar,France,Australia,none,none,SCHEDULED,2022-11-12 07:40:32
-12,2022-11-23 05:00,Morocco vs Croatia,,Al Khor,Qatar,Morocco,Croatia,none,none,SCHEDULED,2022-11-12 07:40:32
-11,2022-11-23 08:00,Germany vs Japan,,Al Khor,Qatar,Germany,Japan,none,none,SCHEDULED,2022-11-12 07:40:32
-10,2022-11-23 11:00,Spain vs Costa Rica,,Al Khor,Qatar,Spain,Costa Rica,none,none,SCHEDULED,2022-11-12 07:40:32
-9,2022-11-23 14:00,Belgium vs Canada,,Al Khor,Qatar,Belgium,Canada,none,none,SCHEDULED,2022-11-12 07:40:32
-13,2022-11-24 05:00,Switzerland vs Cameroon,,Al Khor,Qatar,Switzerland,Cameroon,none,none,SCHEDULED,2022-11-12 07:40:32
-14,2022-11-24 08:00,Uruguay vs South Korea,,Al Khor,Qatar,Uruguay,South Korea,none,none,SCHEDULED,2022-11-12 07:40:32
-15,2022-11-24 11:00,Portugal vs Ghana,,Al Khor,Qatar,Portugal,Ghana,none,none,SCHEDULED,2022-11-12 07:40:32
-16,2022-11-24 14:00,Brazil vs Serbia,,Al Khor,Qatar,Brazil,Serbia,none,none,SCHEDULED,2022-11-12 07:40:32
-17,2022-11-25 05:00,Wales vs IR Iran,,Al Khor,Qatar,Wales,IR Iran,none,none,SCHEDULED,2022-11-12 07:40:32
-18,2022-11-25 08:00,Qatar vs Senegal,,Al Khor,Qatar,Qatar,Senegal,none,none,SCHEDULED,2022-11-12 07:40:32
-19,2022-11-25 11:00,Netherlands vs Ecuador,,Al Khor,Qatar,Netherlands,Ecuador,none,none,SCHEDULED,2022-11-12 07:40:32
-20,2022-11-25 14:00,England vs United States,,Al Khor,Qatar,England,United States,none,none,SCHEDULED,2022-11-12 07:40:32
-21,2022-11-26 05:00,Tunisia vs Australia,,Al Khor,Qatar,Tunisia,Australia,none,none,SCHEDULED,2022-11-12 07:40:32
-22,2022-11-26 08:00,Poland vs Saudi Arabia,,Al Khor,Qatar,Poland,Saudi Arabia,none,none,SCHEDULED,2022-11-12 07:40:32
-23,2022-11-26 11:00,France vs Denmark,,Al Khor,Qatar,France,Denmark,none,none,SCHEDULED,2022-11-12 07:40:32
-24,2022-11-26 14:00,Argentina vs Mexico,,Al Khor,Qatar,Argentina,Mexico,none,none,SCHEDULED,2022-11-12 07:40:32
-25,2022-11-27 05:00,Japan vs Costa Rica,,Al Khor,Qatar,Japan,Costa Rica,none,none,SCHEDULED,2022-11-12 07:40:32
-26,2022-11-27 08:00,Belgium vs Morocco,,Al Khor,Qatar,Belgium,Morocco,none,none,SCHEDULED,2022-11-12 07:40:32
-27,2022-11-27 11:00,Croatia vs Canada,,Al Khor,Qatar,Croatia,Canada,none,none,SCHEDULED,2022-11-12 07:40:32
-28,2022-11-27 14:00,Spain vs Germany,,Al Khor,Qatar,Spain,Germany,none,none,SCHEDULED,2022-11-12 07:40:32
-29,2022-11-28 05:00,Cameroon vs Serbia,,Al Khor,Qatar,Cameroon,Serbia,none,none,SCHEDULED,2022-11-12 07:40:32
-30,2022-11-28 08:00,South Korea vs Ghana,,Al Khor,Qatar,South Korea,Ghana,none,none,SCHEDULED,2022-11-12 07:40:32
-31,2022-11-28 11:00,Brazil vs Switzerland,,Al Khor,Qatar,Brazil,Switzerland,none,none,SCHEDULED,2022-11-12 07:40:32
-32,2022-11-28 14:00,Portugal vs Uruguay,,Al Khor,Qatar,Portugal,Uruguay,none,none,SCHEDULED,2022-11-12 07:40:32
-35,2022-11-29 10:00,Ecuador vs Senegal,,Al Khor,Qatar,Ecuador,Senegal,none,none,SCHEDULED,2022-11-12 07:40:32
-36,2022-11-29 10:00,Netherlands vs Qatar,,Al Khor,Qatar,Netherlands,Qatar,none,none,SCHEDULED,2022-11-12 07:40:32
-34,2022-11-29 14:00,IR Iran vs United States,,Al Khor,Qatar,IR Iran,United States,none,none,SCHEDULED,2022-11-12 07:40:32
-33,2022-11-29 14:00,Wales vs England,,Al Khor,Qatar,Wales,England,none,none,SCHEDULED,2022-11-12 07:40:32
-37,2022-11-30 10:00,Australia vs Denmark,,Al Khor,Qatar,Australia,Denmark,none,none,SCHEDULED,2022-11-12 07:40:32
-38,2022-11-30 10:00,Tunisia vs France,,Al Khor,Qatar,Tunisia,France,none,none,SCHEDULED,2022-11-12 07:40:32
-39,2022-11-30 14:00,Poland vs Argentina,,Al Khor,Qatar,Poland,Argentina,none,none,SCHEDULED,2022-11-12 07:40:32
-40,2022-11-30 14:00,Saudi Arabia vs Mexico,,Al Khor,Qatar,Saudi Arabia,Mexico,none,none,SCHEDULED,2022-11-12 07:40:32
-42,2022-12-01 10:00,Canada vs Morocco,,Al Khor,Qatar,Canada,Morocco,none,none,SCHEDULED,2022-11-12 07:40:32
-41,2022-12-01 10:00,Croatia vs Belgium,,Al Khor,Qatar,Croatia,Belgium,none,none,SCHEDULED,2022-11-12 07:40:32
-44,2022-12-01 14:00,Costa Rica vs Germany,,Al Khor,Qatar,Costa Rica,Germany,none,none,SCHEDULED,2022-11-12 07:40:32
-43,2022-12-01 14:00,Japan vs Spain,,Al Khor,Qatar,Japan,Spain,none,none,SCHEDULED,2022-11-12 07:40:32
-45,2022-12-02 10:00,Ghana vs Uruguay,,Al Khor,Qatar,Ghana,Uruguay,none,none,SCHEDULED,2022-11-12 07:40:32
-46,2022-12-02 10:00,South Korea vs Portugal,,Al Khor,Qatar,South Korea,Portugal,none,none,SCHEDULED,2022-11-12 07:40:32
-48,2022-12-02 14:00,Cameroon vs Brazil,,Al Khor,Qatar,Cameroon,Brazil,none,none,SCHEDULED,2022-11-12 07:40:32
-47,2022-12-02 14:00,Serbia vs Switzerland,,Al Khor,Qatar,Serbia,Switzerland,none,none,SCHEDULED,2022-11-12 07:40:32
-49,2022-12-03 10:00,1A vs 2B,Khalifa International Stadium,Al Rayyan,Qatar,1A,2B,none,none,SCHEDULED,2022-11-12 07:40:32
-50,2022-12-03 14:00,1C vs 2D,Ahmad bin Ali Stadium,Al Rayyan,Qatar,1C,2D,none,none,SCHEDULED,2022-11-12 07:40:32
-52,2022-12-04 10:00,1D vs 2C,,Al Rayyan,Qatar,1D,2C,none,none,SCHEDULED,2022-11-12 07:40:32
-51,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,SCHEDULED,2022-11-12 07:40:32
-53,2022-12-05 10:00,1E vs 2F,,Al Khor,Qatar,1E,2F,none,none,SCHEDULED,2022-11-12 07:40:32
-54,2022-12-05 14:00,1G vs 2H,,Al Khor,Qatar,1G,2H,none,none,SCHEDULED,2022-11-12 07:40:32
-55,2022-12-06 10:00,1F vs 2E,,Al Khor,Qatar,1F,2E,none,none,SCHEDULED,2022-11-12 07:40:32
-56,2022-12-06 14:00,1H vs 2G,,Al Khor,Qatar,1H,2G,none,none,SCHEDULED,2022-11-12 07:40:32
-57,2022-12-09 10:00,Round of 16 5 winner vs Round of 16 6 winner,,Al Khor,Qatar,Round of 16 5 winner,Round of 16 6 winner,none,none,SCHEDULED,2022-11-12 07:40:32
-58,2022-12-09 14:00,Round of 16 1 winner vs Round of 16 2 winner,,Al Khor,Qatar,Round of 16 1 winner,Round of 16 2 winner,none,none,SCHEDULED,2022-11-12 07:40:32
-59,2022-12-10 10:00,Round of 16 7 winner vs Round of 16 8 winner,,Al Khor,Qatar,Round of 16 7 winner,Round of 16 8 winner,none,none,SCHEDULED,2022-11-12 07:40:32
-60,2022-12-10 14:00,Round of 16 3 winner vs Round of 16 4 winner,,Al Khor,Qatar,Round of 16 3 winner,Round of 16 4 winner,none,none,SCHEDULED,2022-11-12 07:40:32
-61,2022-12-13 14:00,Quarterfinal 1 Winner vs Quarterfinal 2 Winner,,Al Khor,Qatar,Quarterfinal 1 Winner,Quarterfinal 2 Winner,none,none,SCHEDULED,2022-11-12 07:40:32
-62,2022-12-14 14:00,Quarterfinal 3 Winner vs Quarterfinal 4 Winner,,Al Khor,Qatar,Quarterfinal 3 Winner,Quarterfinal 4 Winner,none,none,SCHEDULED,2022-11-12 07:40:32
-63,2022-12-17 10:00,Semifinal 1 Loser vs Semifinal 2 Loser,,Al Khor,Qatar,Semifinal 1 Loser,Semifinal 2 Loser,none,none,SCHEDULED,2022-11-12 07:40:32
-64,2022-12-18 10:00,Semifinal 1 Winner vs Semifinal 2 Winner,,Al Khor,Qatar,Semifinal 1 Winner,Semifinal 2 Winner,none,none,SCHEDULED,2022-11-12 07:40:32
+1,2022-11-20 11:00,Qatar vs Ecuador,Al Bayt Stadium,Al Khor,Qatar,Qatar,Ecuador,none,none,SCHEDULED,2022-11-14 09:22:12
+3,2022-11-21 08:00,England vs IR Iran,,Al Khor,Qatar,England,IR Iran,none,none,SCHEDULED,2022-11-14 09:22:12
+2,2022-11-21 11:00,Senegal vs Netherlands,,Al Khor,Qatar,Senegal,Netherlands,none,none,SCHEDULED,2022-11-14 09:22:12
+4,2022-11-21 14:00,United States vs Wales,,Al Khor,Qatar,United States,Wales,none,none,SCHEDULED,2022-11-14 09:22:12
+8,2022-11-22 05:00,Argentina vs Saudi Arabia,,Al Khor,Qatar,Argentina,Saudi Arabia,none,none,SCHEDULED,2022-11-14 09:22:12
+6,2022-11-22 08:00,Denmark vs Tunisia,,Al Khor,Qatar,Denmark,Tunisia,none,none,SCHEDULED,2022-11-14 09:22:12
+7,2022-11-22 11:00,Mexico vs Poland,,Al Khor,Qatar,Mexico,Poland,none,none,SCHEDULED,2022-11-14 09:22:12
+5,2022-11-22 14:00,France vs Australia,,Al Khor,Qatar,France,Australia,none,none,SCHEDULED,2022-11-14 09:22:12
+12,2022-11-23 05:00,Morocco vs Croatia,,Al Khor,Qatar,Morocco,Croatia,none,none,SCHEDULED,2022-11-14 09:22:12
+11,2022-11-23 08:00,Germany vs Japan,,Al Khor,Qatar,Germany,Japan,none,none,SCHEDULED,2022-11-14 09:22:12
+10,2022-11-23 11:00,Spain vs Costa Rica,,Al Khor,Qatar,Spain,Costa Rica,none,none,SCHEDULED,2022-11-14 09:22:12
+9,2022-11-23 14:00,Belgium vs Canada,,Al Khor,Qatar,Belgium,Canada,none,none,SCHEDULED,2022-11-14 09:22:12
+13,2022-11-24 05:00,Switzerland vs Cameroon,,Al Khor,Qatar,Switzerland,Cameroon,none,none,SCHEDULED,2022-11-14 09:22:12
+14,2022-11-24 08:00,Uruguay vs South Korea,,Al Khor,Qatar,Uruguay,South Korea,none,none,SCHEDULED,2022-11-14 09:22:12
+15,2022-11-24 11:00,Portugal vs Ghana,,Al Khor,Qatar,Portugal,Ghana,none,none,SCHEDULED,2022-11-14 09:22:12
+16,2022-11-24 14:00,Brazil vs Serbia,,Al Khor,Qatar,Brazil,Serbia,none,none,SCHEDULED,2022-11-14 09:22:12
+17,2022-11-25 05:00,Wales vs IR Iran,,Al Khor,Qatar,Wales,IR Iran,none,none,SCHEDULED,2022-11-14 09:22:12
+18,2022-11-25 08:00,Qatar vs Senegal,,Al Khor,Qatar,Qatar,Senegal,none,none,SCHEDULED,2022-11-14 09:22:12
+19,2022-11-25 11:00,Netherlands vs Ecuador,,Al Khor,Qatar,Netherlands,Ecuador,none,none,SCHEDULED,2022-11-14 09:22:12
+20,2022-11-25 14:00,England vs United States,,Al Khor,Qatar,England,United States,none,none,SCHEDULED,2022-11-14 09:22:12
+21,2022-11-26 05:00,Tunisia vs Australia,,Al Khor,Qatar,Tunisia,Australia,none,none,SCHEDULED,2022-11-14 09:22:12
+22,2022-11-26 08:00,Poland vs Saudi Arabia,,Al Khor,Qatar,Poland,Saudi Arabia,none,none,SCHEDULED,2022-11-14 09:22:12
+23,2022-11-26 11:00,France vs Denmark,,Al Khor,Qatar,France,Denmark,none,none,SCHEDULED,2022-11-14 09:22:12
+24,2022-11-26 14:00,Argentina vs Mexico,,Al Khor,Qatar,Argentina,Mexico,none,none,SCHEDULED,2022-11-14 09:22:12
+25,2022-11-27 05:00,Japan vs Costa Rica,,Al Khor,Qatar,Japan,Costa Rica,none,none,SCHEDULED,2022-11-14 09:22:12
+26,2022-11-27 08:00,Belgium vs Morocco,,Al Khor,Qatar,Belgium,Morocco,none,none,SCHEDULED,2022-11-14 09:22:12
+27,2022-11-27 11:00,Croatia vs Canada,,Al Khor,Qatar,Croatia,Canada,none,none,SCHEDULED,2022-11-14 09:22:12
+28,2022-11-27 14:00,Spain vs Germany,,Al Khor,Qatar,Spain,Germany,none,none,SCHEDULED,2022-11-14 09:22:12
+29,2022-11-28 05:00,Cameroon vs Serbia,,Al Khor,Qatar,Cameroon,Serbia,none,none,SCHEDULED,2022-11-14 09:22:12
+30,2022-11-28 08:00,South Korea vs Ghana,,Al Khor,Qatar,South Korea,Ghana,none,none,SCHEDULED,2022-11-14 09:22:12
+31,2022-11-28 11:00,Brazil vs Switzerland,,Al Khor,Qatar,Brazil,Switzerland,none,none,SCHEDULED,2022-11-14 09:22:12
+32,2022-11-28 14:00,Portugal vs Uruguay,,Al Khor,Qatar,Portugal,Uruguay,none,none,SCHEDULED,2022-11-14 09:22:12
+35,2022-11-29 10:00,Ecuador vs Senegal,,Al Khor,Qatar,Ecuador,Senegal,none,none,SCHEDULED,2022-11-14 09:22:12
+36,2022-11-29 10:00,Netherlands vs Qatar,,Al Khor,Qatar,Netherlands,Qatar,none,none,SCHEDULED,2022-11-14 09:22:12
+34,2022-11-29 14:00,IR Iran vs United States,,Al Khor,Qatar,IR Iran,United States,none,none,SCHEDULED,2022-11-14 09:22:12
+33,2022-11-29 14:00,Wales vs England,,Al Khor,Qatar,Wales,England,none,none,SCHEDULED,2022-11-14 09:22:12
+37,2022-11-30 10:00,Australia vs Denmark,,Al Khor,Qatar,Australia,Denmark,none,none,SCHEDULED,2022-11-14 09:22:12
+38,2022-11-30 10:00,Tunisia vs France,,Al Khor,Qatar,Tunisia,France,none,none,SCHEDULED,2022-11-14 09:22:12
+39,2022-11-30 14:00,Poland vs Argentina,,Al Khor,Qatar,Poland,Argentina,none,none,SCHEDULED,2022-11-14 09:22:12
+40,2022-11-30 14:00,Saudi Arabia vs Mexico,,Al Khor,Qatar,Saudi Arabia,Mexico,none,none,SCHEDULED,2022-11-14 09:22:12
+42,2022-12-01 10:00,Canada vs Morocco,,Al Khor,Qatar,Canada,Morocco,none,none,SCHEDULED,2022-11-14 09:22:12
+41,2022-12-01 10:00,Croatia vs Belgium,,Al Khor,Qatar,Croatia,Belgium,none,none,SCHEDULED,2022-11-14 09:22:12
+44,2022-12-01 14:00,Costa Rica vs Germany,,Al Khor,Qatar,Costa Rica,Germany,none,none,SCHEDULED,2022-11-14 09:22:12
+43,2022-12-01 14:00,Japan vs Spain,,Al Khor,Qatar,Japan,Spain,none,none,SCHEDULED,2022-11-14 09:22:12
+45,2022-12-02 10:00,Ghana vs Uruguay,,Al Khor,Qatar,Ghana,Uruguay,none,none,SCHEDULED,2022-11-14 09:22:12
+46,2022-12-02 10:00,South Korea vs Portugal,,Al Khor,Qatar,South Korea,Portugal,none,none,SCHEDULED,2022-11-14 09:22:12
+48,2022-12-02 14:00,Cameroon vs Brazil,,Al Khor,Qatar,Cameroon,Brazil,none,none,SCHEDULED,2022-11-14 09:22:12
+47,2022-12-02 14:00,Serbia vs Switzerland,,Al Khor,Qatar,Serbia,Switzerland,none,none,SCHEDULED,2022-11-14 09:22:12
+49,2022-12-03 10:00,1A vs 2B,Khalifa International Stadium,Al Rayyan,Qatar,1A,2B,none,none,SCHEDULED,2022-11-14 09:22:12
+50,2022-12-03 14:00,1C vs 2D,Ahmad bin Ali Stadium,Al Rayyan,Qatar,1C,2D,none,none,SCHEDULED,2022-11-14 09:22:12
+52,2022-12-04 10:00,1D vs 2C,,Al Rayyan,Qatar,1D,2C,none,none,SCHEDULED,2022-11-14 09:22:12
+51,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,SCHEDULED,2022-11-14 09:22:12
+53,2022-12-05 10:00,1E vs 2F,,Al Khor,Qatar,1E,2F,none,none,SCHEDULED,2022-11-14 09:22:12
+54,2022-12-05 14:00,1G vs 2H,,Al Khor,Qatar,1G,2H,none,none,SCHEDULED,2022-11-14 09:22:12
+55,2022-12-06 10:00,1F vs 2E,,Al Khor,Qatar,1F,2E,none,none,SCHEDULED,2022-11-14 09:22:12
+56,2022-12-06 14:00,1H vs 2G,,Al Khor,Qatar,1H,2G,none,none,SCHEDULED,2022-11-14 09:22:12
+57,2022-12-09 10:00,Round of 16 5 winner vs Round of 16 6 winner,,Al Khor,Qatar,Round of 16 5 winner,Round of 16 6 winner,none,none,SCHEDULED,2022-11-14 09:22:12
+58,2022-12-09 14:00,Round of 16 1 winner vs Round of 16 2 winner,,Al Khor,Qatar,Round of 16 1 winner,Round of 16 2 winner,none,none,SCHEDULED,2022-11-14 09:22:12
+59,2022-12-10 10:00,Round of 16 7 winner vs Round of 16 8 winner,,Al Khor,Qatar,Round of 16 7 winner,Round of 16 8 winner,none,none,SCHEDULED,2022-11-14 09:22:12
+60,2022-12-10 14:00,Round of 16 3 winner vs Round of 16 4 winner,,Al Khor,Qatar,Round of 16 3 winner,Round of 16 4 winner,none,none,SCHEDULED,2022-11-14 09:22:12
+61,2022-12-13 14:00,Quarterfinal 1 Winner vs Quarterfinal 2 Winner,,Al Khor,Qatar,Quarterfinal 1 Winner,Quarterfinal 2 Winner,none,none,SCHEDULED,2022-11-14 09:22:12
+62,2022-12-14 14:00,Quarterfinal 3 Winner vs Quarterfinal 4 Winner,,Al Khor,Qatar,Quarterfinal 3 Winner,Quarterfinal 4 Winner,none,none,SCHEDULED,2022-11-14 09:22:12
+63,2022-12-17 10:00,Semifinal 1 Loser vs Semifinal 2 Loser,,Al Khor,Qatar,Semifinal 1 Loser,Semifinal 2 Loser,none,none,SCHEDULED,2022-11-14 09:22:12
+64,2022-12-18 10:00,Semifinal 1 Winner vs Semifinal 2 Winner,,Al Khor,Qatar,Semifinal 1 Winner,Semifinal 2 Winner,none,none,SCHEDULED,2022-11-14 09:22:12
