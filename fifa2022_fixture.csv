@@ -1,65 +1,65 @@
 match,date,name,venue,city,country,hometeam,awayteam,homegoal,awaygoal,status,update time 
-1,2022-11-20 11:00,Qatar vs Ecuador,Al Bayt Stadium,Al Khor,Qatar,Qatar,Ecuador,0,2,SECOND_HALF,2022-11-20 13:17:37
-3,2022-11-21 08:00,England vs IR Iran,Khalifa International Stadium,Al Rayyan,Qatar,England,IR Iran,none,none,SCHEDULED,2022-11-20 13:17:37
-2,2022-11-21 11:00,Senegal vs Netherlands,Al Thumama Stadium,Doha,Qatar,Senegal,Netherlands,none,none,SCHEDULED,2022-11-20 13:17:37
-4,2022-11-21 14:00,United States vs Wales,Ahmad bin Ali Stadium,Al Rayyan,Qatar,United States,Wales,none,none,SCHEDULED,2022-11-20 13:17:37
-8,2022-11-22 05:00,Argentina vs Saudi Arabia,Lusail Iconic Stadium,Lusail,Qatar,Argentina,Saudi Arabia,none,none,SCHEDULED,2022-11-20 13:17:37
-6,2022-11-22 08:00,Denmark vs Tunisia,Education City Stadium,Al Rayyan,Qatar,Denmark,Tunisia,none,none,SCHEDULED,2022-11-20 13:17:37
-7,2022-11-22 11:00,Mexico vs Poland,Stadium 974,Doha,Qatar,Mexico,Poland,none,none,SCHEDULED,2022-11-20 13:17:37
-5,2022-11-22 14:00,France vs Australia,Al Janoub Stadium,Al Wkrah,Qatar,France,Australia,none,none,SCHEDULED,2022-11-20 13:17:37
-12,2022-11-23 05:00,Morocco vs Croatia,Al Bayt Stadium,Al Khor,Qatar,Morocco,Croatia,none,none,SCHEDULED,2022-11-20 13:17:37
-11,2022-11-23 08:00,Germany vs Japan,Khalifa International Stadium,Al Rayyan,Qatar,Germany,Japan,none,none,SCHEDULED,2022-11-20 13:17:37
-10,2022-11-23 11:00,Spain vs Costa Rica,Al Thumama Stadium,Doha,Qatar,Spain,Costa Rica,none,none,SCHEDULED,2022-11-20 13:17:37
-9,2022-11-23 14:00,Belgium vs Canada,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Belgium,Canada,none,none,SCHEDULED,2022-11-20 13:17:37
-13,2022-11-24 05:00,Switzerland vs Cameroon,Al Janoub Stadium,Al Wkrah,Qatar,Switzerland,Cameroon,none,none,SCHEDULED,2022-11-20 13:17:37
-14,2022-11-24 08:00,Uruguay vs South Korea,Education City Stadium,Al Rayyan,Qatar,Uruguay,South Korea,none,none,SCHEDULED,2022-11-20 13:17:37
-15,2022-11-24 11:00,Portugal vs Ghana,Stadium 974,Doha,Qatar,Portugal,Ghana,none,none,SCHEDULED,2022-11-20 13:17:37
-16,2022-11-24 14:00,Brazil vs Serbia,Lusail Iconic Stadium,Lusail,Qatar,Brazil,Serbia,none,none,SCHEDULED,2022-11-20 13:17:37
-17,2022-11-25 05:00,Wales vs IR Iran,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,IR Iran,none,none,SCHEDULED,2022-11-20 13:17:37
-18,2022-11-25 08:00,Qatar vs Senegal,Al Thumama Stadium,Doha,Qatar,Qatar,Senegal,none,none,SCHEDULED,2022-11-20 13:17:37
-19,2022-11-25 11:00,Netherlands vs Ecuador,Khalifa International Stadium,Al Rayyan,Qatar,Netherlands,Ecuador,none,none,SCHEDULED,2022-11-20 13:17:37
-20,2022-11-25 14:00,England vs United States,Al Bayt Stadium,Al Khor,Qatar,England,United States,none,none,SCHEDULED,2022-11-20 13:17:37
-21,2022-11-26 05:00,Tunisia vs Australia,Al Janoub Stadium,Al Wkrah,Qatar,Tunisia,Australia,none,none,SCHEDULED,2022-11-20 13:17:37
-22,2022-11-26 08:00,Poland vs Saudi Arabia,Education City Stadium,Al Rayyan,Qatar,Poland,Saudi Arabia,none,none,SCHEDULED,2022-11-20 13:17:37
-23,2022-11-26 11:00,France vs Denmark,Stadium 974,Doha,Qatar,France,Denmark,none,none,SCHEDULED,2022-11-20 13:17:37
-24,2022-11-26 14:00,Argentina vs Mexico,Lusail Iconic Stadium,Lusail,Qatar,Argentina,Mexico,none,none,SCHEDULED,2022-11-20 13:17:37
-25,2022-11-27 05:00,Japan vs Costa Rica,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Japan,Costa Rica,none,none,SCHEDULED,2022-11-20 13:17:37
-26,2022-11-27 08:00,Belgium vs Morocco,Al Thumama Stadium,Doha,Qatar,Belgium,Morocco,none,none,SCHEDULED,2022-11-20 13:17:37
-27,2022-11-27 11:00,Croatia vs Canada,Khalifa International Stadium,Al Rayyan,Qatar,Croatia,Canada,none,none,SCHEDULED,2022-11-20 13:17:37
-28,2022-11-27 14:00,Spain vs Germany,Al Bayt Stadium,Al Khor,Qatar,Spain,Germany,none,none,SCHEDULED,2022-11-20 13:17:37
-29,2022-11-28 05:00,Cameroon vs Serbia,Al Janoub Stadium,Al Wkrah,Qatar,Cameroon,Serbia,none,none,SCHEDULED,2022-11-20 13:17:37
-30,2022-11-28 08:00,South Korea vs Ghana,Education City Stadium,Al Rayyan,Qatar,South Korea,Ghana,none,none,SCHEDULED,2022-11-20 13:17:37
-31,2022-11-28 11:00,Brazil vs Switzerland,Stadium 974,Doha,Qatar,Brazil,Switzerland,none,none,SCHEDULED,2022-11-20 13:17:37
-32,2022-11-28 14:00,Portugal vs Uruguay,Lusail Iconic Stadium,Lusail,Qatar,Portugal,Uruguay,none,none,SCHEDULED,2022-11-20 13:17:37
-35,2022-11-29 10:00,Ecuador vs Senegal,Khalifa International Stadium,Al Rayyan,Qatar,Ecuador,Senegal,none,none,SCHEDULED,2022-11-20 13:17:37
-36,2022-11-29 10:00,Netherlands vs Qatar,Al Bayt Stadium,Al Khor,Qatar,Netherlands,Qatar,none,none,SCHEDULED,2022-11-20 13:17:37
-34,2022-11-29 14:00,IR Iran vs United States,Al Thumama Stadium,Doha,Qatar,IR Iran,United States,none,none,SCHEDULED,2022-11-20 13:17:37
-33,2022-11-29 14:00,Wales vs England,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,England,none,none,SCHEDULED,2022-11-20 13:17:37
-37,2022-11-30 10:00,Australia vs Denmark,Al Janoub Stadium,Al Wkrah,Qatar,Australia,Denmark,none,none,SCHEDULED,2022-11-20 13:17:37
-38,2022-11-30 10:00,Tunisia vs France,Education City Stadium,Al Rayyan,Qatar,Tunisia,France,none,none,SCHEDULED,2022-11-20 13:17:37
-39,2022-11-30 14:00,Poland vs Argentina,Stadium 974,Doha,Qatar,Poland,Argentina,none,none,SCHEDULED,2022-11-20 13:17:37
-40,2022-11-30 14:00,Saudi Arabia vs Mexico,Lusail Iconic Stadium,Lusail,Qatar,Saudi Arabia,Mexico,none,none,SCHEDULED,2022-11-20 13:17:37
-42,2022-12-01 10:00,Canada vs Morocco,Al Thumama Stadium,Doha,Qatar,Canada,Morocco,none,none,SCHEDULED,2022-11-20 13:17:37
-41,2022-12-01 10:00,Croatia vs Belgium,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Croatia,Belgium,none,none,SCHEDULED,2022-11-20 13:17:37
-44,2022-12-01 14:00,Costa Rica vs Germany,Al Bayt Stadium,Al Khor,Qatar,Costa Rica,Germany,none,none,SCHEDULED,2022-11-20 13:17:37
-43,2022-12-01 14:00,Japan vs Spain,Khalifa International Stadium,Al Rayyan,Qatar,Japan,Spain,none,none,SCHEDULED,2022-11-20 13:17:37
-45,2022-12-02 10:00,Ghana vs Uruguay,Al Janoub Stadium,Al Wkrah,Qatar,Ghana,Uruguay,none,none,SCHEDULED,2022-11-20 13:17:37
-46,2022-12-02 10:00,South Korea vs Portugal,Education City Stadium,Al Rayyan,Qatar,South Korea,Portugal,none,none,SCHEDULED,2022-11-20 13:17:37
-48,2022-12-02 14:00,Cameroon vs Brazil,Lusail Iconic Stadium,Lusail,Qatar,Cameroon,Brazil,none,none,SCHEDULED,2022-11-20 13:17:37
-47,2022-12-02 14:00,Serbia vs Switzerland,Stadium 974,Doha,Qatar,Serbia,Switzerland,none,none,SCHEDULED,2022-11-20 13:17:37
-49,2022-12-03 10:00,1A vs 2B,Khalifa International Stadium,Al Rayyan,Qatar,1A,2B,none,none,SCHEDULED,2022-11-20 13:17:37
-50,2022-12-03 14:00,1C vs 2D,Ahmad bin Ali Stadium,Al Rayyan,Qatar,1C,2D,none,none,SCHEDULED,2022-11-20 13:17:37
-52,2022-12-04 10:00,1D vs 2C,Al Thumama Stadium,Doha,Qatar,1D,2C,none,none,SCHEDULED,2022-11-20 13:17:37
-51,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,SCHEDULED,2022-11-20 13:17:37
-53,2022-12-05 10:00,1E vs 2F,Al Janoub Stadium,Al Wkrah,Qatar,1E,2F,none,none,SCHEDULED,2022-11-20 13:17:37
-54,2022-12-05 14:00,1G vs 2H,Stadium 974,Doha,Qatar,1G,2H,none,none,SCHEDULED,2022-11-20 13:17:37
-55,2022-12-06 10:00,1F vs 2E,Education City Stadium,Al Rayyan,Qatar,1F,2E,none,none,SCHEDULED,2022-11-20 13:17:37
-56,2022-12-06 14:00,1H vs 2G,Lusail Iconic Stadium,Lusail,Qatar,1H,2G,none,none,SCHEDULED,2022-11-20 13:17:37
-57,2022-12-09 10:00,Round of 16 5 winner vs Round of 16 6 winner,Education City Stadium,Al Rayyan,Qatar,Round of 16 5 winner,Round of 16 6 winner,none,none,SCHEDULED,2022-11-20 13:17:37
-58,2022-12-09 14:00,Round of 16 1 winner vs Round of 16 2 winner,Lusail Iconic Stadium,Lusail,Qatar,Round of 16 1 winner,Round of 16 2 winner,none,none,SCHEDULED,2022-11-20 13:17:37
-59,2022-12-10 10:00,Round of 16 7 winner vs Round of 16 8 winner,Al Thumama Stadium,Doha,Qatar,Round of 16 7 winner,Round of 16 8 winner,none,none,SCHEDULED,2022-11-20 13:17:37
-60,2022-12-10 14:00,Round of 16 3 winner vs Round of 16 4 winner,Al Bayt Stadium,Al Khor,Qatar,Round of 16 3 winner,Round of 16 4 winner,none,none,SCHEDULED,2022-11-20 13:17:37
-61,2022-12-13 14:00,Quarterfinal 1 Winner vs Quarterfinal 2 Winner,Lusail Iconic Stadium,Lusail,Qatar,Quarterfinal 1 Winner,Quarterfinal 2 Winner,none,none,SCHEDULED,2022-11-20 13:17:37
-62,2022-12-14 14:00,Quarterfinal 3 Winner vs Quarterfinal 4 Winner,Al Bayt Stadium,Al Khor,Qatar,Quarterfinal 3 Winner,Quarterfinal 4 Winner,none,none,SCHEDULED,2022-11-20 13:17:37
-63,2022-12-17 10:00,Semifinal 1 Loser vs Semifinal 2 Loser,Khalifa International Stadium,Al Rayyan,Qatar,Semifinal 1 Loser,Semifinal 2 Loser,none,none,SCHEDULED,2022-11-20 13:17:37
-64,2022-12-18 10:00,Semifinal 1 Winner vs Semifinal 2 Winner,Lusail Iconic Stadium,Lusail,Qatar,Semifinal 1 Winner,Semifinal 2 Winner,none,none,SCHEDULED,2022-11-20 13:17:37
+1,2022-11-20 11:00,Qatar vs Ecuador,Al Bayt Stadium,Al Khor,Qatar,Qatar,Ecuador,0,2,SECOND_HALF,2022-11-20 13:22:54
+3,2022-11-21 08:00,England vs IR Iran,Khalifa International Stadium,Al Rayyan,Qatar,England,IR Iran,none,none,SCHEDULED,2022-11-20 13:22:54
+2,2022-11-21 11:00,Senegal vs Netherlands,Al Thumama Stadium,Doha,Qatar,Senegal,Netherlands,none,none,SCHEDULED,2022-11-20 13:22:54
+4,2022-11-21 14:00,United States vs Wales,Ahmad bin Ali Stadium,Al Rayyan,Qatar,United States,Wales,none,none,SCHEDULED,2022-11-20 13:22:54
+8,2022-11-22 05:00,Argentina vs Saudi Arabia,Lusail Iconic Stadium,Lusail,Qatar,Argentina,Saudi Arabia,none,none,SCHEDULED,2022-11-20 13:22:54
+6,2022-11-22 08:00,Denmark vs Tunisia,Education City Stadium,Al Rayyan,Qatar,Denmark,Tunisia,none,none,SCHEDULED,2022-11-20 13:22:54
+7,2022-11-22 11:00,Mexico vs Poland,Stadium 974,Doha,Qatar,Mexico,Poland,none,none,SCHEDULED,2022-11-20 13:22:54
+5,2022-11-22 14:00,France vs Australia,Al Janoub Stadium,Al Wkrah,Qatar,France,Australia,none,none,SCHEDULED,2022-11-20 13:22:54
+12,2022-11-23 05:00,Morocco vs Croatia,Al Bayt Stadium,Al Khor,Qatar,Morocco,Croatia,none,none,SCHEDULED,2022-11-20 13:22:54
+11,2022-11-23 08:00,Germany vs Japan,Khalifa International Stadium,Al Rayyan,Qatar,Germany,Japan,none,none,SCHEDULED,2022-11-20 13:22:54
+10,2022-11-23 11:00,Spain vs Costa Rica,Al Thumama Stadium,Doha,Qatar,Spain,Costa Rica,none,none,SCHEDULED,2022-11-20 13:22:54
+9,2022-11-23 14:00,Belgium vs Canada,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Belgium,Canada,none,none,SCHEDULED,2022-11-20 13:22:54
+13,2022-11-24 05:00,Switzerland vs Cameroon,Al Janoub Stadium,Al Wkrah,Qatar,Switzerland,Cameroon,none,none,SCHEDULED,2022-11-20 13:22:54
+14,2022-11-24 08:00,Uruguay vs South Korea,Education City Stadium,Al Rayyan,Qatar,Uruguay,South Korea,none,none,SCHEDULED,2022-11-20 13:22:54
+15,2022-11-24 11:00,Portugal vs Ghana,Stadium 974,Doha,Qatar,Portugal,Ghana,none,none,SCHEDULED,2022-11-20 13:22:54
+16,2022-11-24 14:00,Brazil vs Serbia,Lusail Iconic Stadium,Lusail,Qatar,Brazil,Serbia,none,none,SCHEDULED,2022-11-20 13:22:54
+17,2022-11-25 05:00,Wales vs IR Iran,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,IR Iran,none,none,SCHEDULED,2022-11-20 13:22:54
+18,2022-11-25 08:00,Qatar vs Senegal,Al Thumama Stadium,Doha,Qatar,Qatar,Senegal,none,none,SCHEDULED,2022-11-20 13:22:54
+19,2022-11-25 11:00,Netherlands vs Ecuador,Khalifa International Stadium,Al Rayyan,Qatar,Netherlands,Ecuador,none,none,SCHEDULED,2022-11-20 13:22:54
+20,2022-11-25 14:00,England vs United States,Al Bayt Stadium,Al Khor,Qatar,England,United States,none,none,SCHEDULED,2022-11-20 13:22:54
+21,2022-11-26 05:00,Tunisia vs Australia,Al Janoub Stadium,Al Wkrah,Qatar,Tunisia,Australia,none,none,SCHEDULED,2022-11-20 13:22:54
+22,2022-11-26 08:00,Poland vs Saudi Arabia,Education City Stadium,Al Rayyan,Qatar,Poland,Saudi Arabia,none,none,SCHEDULED,2022-11-20 13:22:54
+23,2022-11-26 11:00,France vs Denmark,Stadium 974,Doha,Qatar,France,Denmark,none,none,SCHEDULED,2022-11-20 13:22:54
+24,2022-11-26 14:00,Argentina vs Mexico,Lusail Iconic Stadium,Lusail,Qatar,Argentina,Mexico,none,none,SCHEDULED,2022-11-20 13:22:54
+25,2022-11-27 05:00,Japan vs Costa Rica,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Japan,Costa Rica,none,none,SCHEDULED,2022-11-20 13:22:54
+26,2022-11-27 08:00,Belgium vs Morocco,Al Thumama Stadium,Doha,Qatar,Belgium,Morocco,none,none,SCHEDULED,2022-11-20 13:22:54
+27,2022-11-27 11:00,Croatia vs Canada,Khalifa International Stadium,Al Rayyan,Qatar,Croatia,Canada,none,none,SCHEDULED,2022-11-20 13:22:54
+28,2022-11-27 14:00,Spain vs Germany,Al Bayt Stadium,Al Khor,Qatar,Spain,Germany,none,none,SCHEDULED,2022-11-20 13:22:54
+29,2022-11-28 05:00,Cameroon vs Serbia,Al Janoub Stadium,Al Wkrah,Qatar,Cameroon,Serbia,none,none,SCHEDULED,2022-11-20 13:22:54
+30,2022-11-28 08:00,South Korea vs Ghana,Education City Stadium,Al Rayyan,Qatar,South Korea,Ghana,none,none,SCHEDULED,2022-11-20 13:22:54
+31,2022-11-28 11:00,Brazil vs Switzerland,Stadium 974,Doha,Qatar,Brazil,Switzerland,none,none,SCHEDULED,2022-11-20 13:22:54
+32,2022-11-28 14:00,Portugal vs Uruguay,Lusail Iconic Stadium,Lusail,Qatar,Portugal,Uruguay,none,none,SCHEDULED,2022-11-20 13:22:54
+35,2022-11-29 10:00,Ecuador vs Senegal,Khalifa International Stadium,Al Rayyan,Qatar,Ecuador,Senegal,none,none,SCHEDULED,2022-11-20 13:22:54
+36,2022-11-29 10:00,Netherlands vs Qatar,Al Bayt Stadium,Al Khor,Qatar,Netherlands,Qatar,none,none,SCHEDULED,2022-11-20 13:22:54
+34,2022-11-29 14:00,IR Iran vs United States,Al Thumama Stadium,Doha,Qatar,IR Iran,United States,none,none,SCHEDULED,2022-11-20 13:22:54
+33,2022-11-29 14:00,Wales vs England,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Wales,England,none,none,SCHEDULED,2022-11-20 13:22:54
+37,2022-11-30 10:00,Australia vs Denmark,Al Janoub Stadium,Al Wkrah,Qatar,Australia,Denmark,none,none,SCHEDULED,2022-11-20 13:22:54
+38,2022-11-30 10:00,Tunisia vs France,Education City Stadium,Al Rayyan,Qatar,Tunisia,France,none,none,SCHEDULED,2022-11-20 13:22:54
+39,2022-11-30 14:00,Poland vs Argentina,Stadium 974,Doha,Qatar,Poland,Argentina,none,none,SCHEDULED,2022-11-20 13:22:54
+40,2022-11-30 14:00,Saudi Arabia vs Mexico,Lusail Iconic Stadium,Lusail,Qatar,Saudi Arabia,Mexico,none,none,SCHEDULED,2022-11-20 13:22:54
+42,2022-12-01 10:00,Canada vs Morocco,Al Thumama Stadium,Doha,Qatar,Canada,Morocco,none,none,SCHEDULED,2022-11-20 13:22:54
+41,2022-12-01 10:00,Croatia vs Belgium,Ahmad bin Ali Stadium,Al Rayyan,Qatar,Croatia,Belgium,none,none,SCHEDULED,2022-11-20 13:22:54
+44,2022-12-01 14:00,Costa Rica vs Germany,Al Bayt Stadium,Al Khor,Qatar,Costa Rica,Germany,none,none,SCHEDULED,2022-11-20 13:22:54
+43,2022-12-01 14:00,Japan vs Spain,Khalifa International Stadium,Al Rayyan,Qatar,Japan,Spain,none,none,SCHEDULED,2022-11-20 13:22:54
+45,2022-12-02 10:00,Ghana vs Uruguay,Al Janoub Stadium,Al Wkrah,Qatar,Ghana,Uruguay,none,none,SCHEDULED,2022-11-20 13:22:54
+46,2022-12-02 10:00,South Korea vs Portugal,Education City Stadium,Al Rayyan,Qatar,South Korea,Portugal,none,none,SCHEDULED,2022-11-20 13:22:54
+48,2022-12-02 14:00,Cameroon vs Brazil,Lusail Iconic Stadium,Lusail,Qatar,Cameroon,Brazil,none,none,SCHEDULED,2022-11-20 13:22:54
+47,2022-12-02 14:00,Serbia vs Switzerland,Stadium 974,Doha,Qatar,Serbia,Switzerland,none,none,SCHEDULED,2022-11-20 13:22:54
+49,2022-12-03 10:00,1A vs 2B,Khalifa International Stadium,Al Rayyan,Qatar,1A,2B,none,none,SCHEDULED,2022-11-20 13:22:54
+50,2022-12-03 14:00,1C vs 2D,Ahmad bin Ali Stadium,Al Rayyan,Qatar,1C,2D,none,none,SCHEDULED,2022-11-20 13:22:54
+52,2022-12-04 10:00,1D vs 2C,Al Thumama Stadium,Doha,Qatar,1D,2C,none,none,SCHEDULED,2022-11-20 13:22:54
+51,2022-12-04 14:00,1B vs 2A,Al Bayt Stadium,Al Khor,Qatar,1B,2A,none,none,SCHEDULED,2022-11-20 13:22:54
+53,2022-12-05 10:00,1E vs 2F,Al Janoub Stadium,Al Wkrah,Qatar,1E,2F,none,none,SCHEDULED,2022-11-20 13:22:54
+54,2022-12-05 14:00,1G vs 2H,Stadium 974,Doha,Qatar,1G,2H,none,none,SCHEDULED,2022-11-20 13:22:54
+55,2022-12-06 10:00,1F vs 2E,Education City Stadium,Al Rayyan,Qatar,1F,2E,none,none,SCHEDULED,2022-11-20 13:22:54
+56,2022-12-06 14:00,1H vs 2G,Lusail Iconic Stadium,Lusail,Qatar,1H,2G,none,none,SCHEDULED,2022-11-20 13:22:54
+57,2022-12-09 10:00,Round of 16 5 winner vs Round of 16 6 winner,Education City Stadium,Al Rayyan,Qatar,Round of 16 5 winner,Round of 16 6 winner,none,none,SCHEDULED,2022-11-20 13:22:54
+58,2022-12-09 14:00,Round of 16 1 winner vs Round of 16 2 winner,Lusail Iconic Stadium,Lusail,Qatar,Round of 16 1 winner,Round of 16 2 winner,none,none,SCHEDULED,2022-11-20 13:22:54
+59,2022-12-10 10:00,Round of 16 7 winner vs Round of 16 8 winner,Al Thumama Stadium,Doha,Qatar,Round of 16 7 winner,Round of 16 8 winner,none,none,SCHEDULED,2022-11-20 13:22:54
+60,2022-12-10 14:00,Round of 16 3 winner vs Round of 16 4 winner,Al Bayt Stadium,Al Khor,Qatar,Round of 16 3 winner,Round of 16 4 winner,none,none,SCHEDULED,2022-11-20 13:22:54
+61,2022-12-13 14:00,Quarterfinal 1 Winner vs Quarterfinal 2 Winner,Lusail Iconic Stadium,Lusail,Qatar,Quarterfinal 1 Winner,Quarterfinal 2 Winner,none,none,SCHEDULED,2022-11-20 13:22:54
+62,2022-12-14 14:00,Quarterfinal 3 Winner vs Quarterfinal 4 Winner,Al Bayt Stadium,Al Khor,Qatar,Quarterfinal 3 Winner,Quarterfinal 4 Winner,none,none,SCHEDULED,2022-11-20 13:22:54
+63,2022-12-17 10:00,Semifinal 1 Loser vs Semifinal 2 Loser,Khalifa International Stadium,Al Rayyan,Qatar,Semifinal 1 Loser,Semifinal 2 Loser,none,none,SCHEDULED,2022-11-20 13:22:54
+64,2022-12-18 10:00,Semifinal 1 Winner vs Semifinal 2 Winner,Lusail Iconic Stadium,Lusail,Qatar,Semifinal 1 Winner,Semifinal 2 Winner,none,none,SCHEDULED,2022-11-20 13:22:54
